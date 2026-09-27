@@ -1,0 +1,12 @@
+{
+ "source": "acg",
+ "id": "PaintedWood007C",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "normal",
+  "rough"
+ ]
+}

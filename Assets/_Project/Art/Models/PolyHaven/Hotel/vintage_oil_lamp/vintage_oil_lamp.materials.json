@@ -1,0 +1,66 @@
+{
+ "id": "vintage_oil_lamp",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/vintage_oil_lamp",
+ "tris": 7208,
+ "size": [
+  0.2199999988079071,
+  0.8016371726989746,
+  0.2199999988079071
+ ],
+ "materials": {
+  "vintage_oil_lamp_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_oil_lamp_glass_Albedo.jpg",
+   "normal": "vintage_oil_lamp_glass_Normal.jpg",
+   "mask": "vintage_oil_lamp_glass_Mask.png"
+  },
+  "vintage_oil_lamp": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_oil_lamp_Albedo.jpg",
+   "normal": "vintage_oil_lamp_Normal.jpg",
+   "mask": "vintage_oil_lamp_Mask.png"
+  },
+  "vintage_oil_lamp_flame": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 0,
+   "emissive": [
+    1,
+    1,
+    1
+   ],
+   "albedo": "vintage_oil_lamp_flame_Albedo.jpg"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "SchoolChair_01",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/SchoolChair_01",
+ "tris": 5072,
+ "size": [
+  0.5658532977104187,
+  1.006035566329956,
+  0.6752548813819885
+ ],
+ "materials": {
+  "SchoolChair_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "SchoolChair_01_Albedo.jpg",
+   "normal": "SchoolChair_01_Normal.jpg",
+   "mask": "SchoolChair_01_Mask.png"
+  }
+ }
+}

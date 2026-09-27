@@ -1,0 +1,31 @@
+{
+ "id": "GreenChair_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/GreenChair_01",
+ "tris": 4213,
+ "size": [
+  0.6730944514274597,
+  1.0585118532180786,
+  0.6643873453140259
+ ],
+ "materials": {
+  "GreenChair_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "GreenChair_01_Albedo.jpg",
+   "normal": "GreenChair_01_Normal.jpg",
+   "mask": "GreenChair_01_Mask.png"
+  }
+ }
+}

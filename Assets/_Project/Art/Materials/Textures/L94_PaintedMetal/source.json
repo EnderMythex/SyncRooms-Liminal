@@ -1,0 +1,13 @@
+{
+ "source": "acg",
+ "id": "PaintedMetal006",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "metal",
+  "normal",
+  "rough"
+ ]
+}

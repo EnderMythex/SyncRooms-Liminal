@@ -1,0 +1,47 @@
+{
+ "id": "metal_trash_can",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/metal_trash_can",
+ "tris": 13960,
+ "size": [
+  1.7780096530914307,
+  0.9061697125434875,
+  0.556289792060852
+ ],
+ "materials": {
+  "metal_trash_can": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "metal_trash_can_Albedo.jpg",
+   "normal": "metal_trash_can_Normal.jpg",
+   "mask": "metal_trash_can_Mask.png"
+  },
+  "metal_trash_can_rust": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "metal_trash_can_rust_Albedo.jpg",
+   "normal": "metal_trash_can_rust_Normal.jpg",
+   "mask": "metal_trash_can_rust_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "source": "acg",
+ "id": "Tiles133A",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "normal",
+  "rough"
+ ]
+}

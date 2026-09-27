@@ -1,0 +1,98 @@
+{
+ "id": "brass_candleholders",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/brass_candleholders",
+ "tris": 41936,
+ "size": [
+  1.0529398918151855,
+  0.8352597951889038,
+  0.3646823465824127
+ ],
+ "materials": {
+  "brass_candleholders_03": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "brass_candleholders_03_Albedo.jpg",
+   "normal": "brass_candleholders_03_Normal.jpg",
+   "mask": "brass_candleholders_03_Mask.png"
+  },
+  "brass_candleholders_flame": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "emissive": [
+    1,
+    1,
+    1
+   ],
+   "albedo": "brass_candleholders_flame_Albedo.jpg"
+  },
+  "brass_candleholders_02": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "brass_candleholders_02_Albedo.jpg",
+   "normal": "brass_candleholders_02_Normal.jpg",
+   "mask": "brass_candleholders_02_Mask.png"
+  },
+  "brass_candleholders_candles": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "brass_candleholders_candles_Albedo.jpg",
+   "normal": "brass_candleholders_candles_Normal.jpg",
+   "mask": "brass_candleholders_candles_Mask.png"
+  },
+  "brass_candleholders_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "brass_candleholders_01_Albedo.jpg",
+   "normal": "brass_candleholders_01_Normal.jpg",
+   "mask": "brass_candleholders_01_Mask.png"
+  }
+ }
+}

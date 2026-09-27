@@ -1,0 +1,47 @@
+{
+ "id": "wooden_picnic_table",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/wooden_picnic_table",
+ "tris": 10210,
+ "size": [
+  2.240975856781006,
+  0.7459869384765625,
+  3.022329568862915
+ ],
+ "materials": {
+  "wooden_picnic_table_bottom": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "wooden_picnic_table_bottom_Albedo.jpg",
+   "normal": "wooden_picnic_table_bottom_Normal.jpg",
+   "mask": "wooden_picnic_table_bottom_Mask.png"
+  },
+  "wooden_picnic_table_table": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "wooden_picnic_table_table_Albedo.jpg",
+   "normal": "wooden_picnic_table_table_Normal.jpg",
+   "mask": "wooden_picnic_table_table_Mask.png"
+  }
+ }
+}

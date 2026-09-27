@@ -1,0 +1,31 @@
+{
+ "id": "office_notepads",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/office_notepads",
+ "tris": 666,
+ "size": [
+  1.1027899980545044,
+  0.02199999988079071,
+  0.6598374843597412
+ ],
+ "materials": {
+  "office_notepads": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "office_notepads_Albedo.jpg",
+   "normal": "office_notepads_Normal.jpg",
+   "mask": "office_notepads_Mask.png"
+  }
+ }
+}

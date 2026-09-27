@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a713371038dab4dada3b11e9926d9e, type: 3}
+  m_Name: ration
+  m_EditorClassIdentifier: Assembly-CSharp::SyncRooms.Inventory.ItemDefinition
+  id: ration
+  displayName: Ration de survie
+  description: "Conserve longue dur\xE9e. Le go\xFBt importe peu ici."
+  icon: {fileID: -4417397341798404362, guid: 5225b96b6c0ba9845ac163fed866b7a1, type: 3}
+  worldPrefab: {fileID: 692934240015378716, guid: 26c6e3b5aa15dfb4ca54df40680c2cea, type: 3}
+  maxStack: 3
+  use: 2
+  amount: 15
+  consumeOnUse: 1
+  noteText: 

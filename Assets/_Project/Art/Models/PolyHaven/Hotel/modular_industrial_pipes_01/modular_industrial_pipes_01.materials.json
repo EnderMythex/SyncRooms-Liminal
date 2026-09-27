@@ -1,0 +1,47 @@
+{
+ "id": "modular_industrial_pipes_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/modular_industrial_pipes_01",
+ "tris": 12340,
+ "size": [
+  1.4028016328811646,
+  1.9546395540237427,
+  0.3075956106185913
+ ],
+ "materials": {
+  "modular_industrial_pipes_01_group01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "modular_industrial_pipes_01_group01_Albedo.jpg",
+   "normal": "modular_industrial_pipes_01_group01_Normal.jpg",
+   "mask": "modular_industrial_pipes_01_group01_Mask.png"
+  },
+  "modular_industrial_pipes_01_group02": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "modular_industrial_pipes_01_group02_Albedo.jpg",
+   "normal": "modular_industrial_pipes_01_group02_Normal.jpg",
+   "mask": "modular_industrial_pipes_01_group02_Mask.png"
+  }
+ }
+}

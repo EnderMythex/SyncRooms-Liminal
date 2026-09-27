@@ -1,0 +1,62 @@
+{
+ "id": "vintage_cabinet_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/vintage_cabinet_01",
+ "tris": 61096,
+ "size": [
+  2.0217604637145996,
+  2.2350516319274902,
+  0.6698037981987
+ ],
+ "materials": {
+  "vintage_cabinet_01_a": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_cabinet_01_a_Albedo.jpg",
+   "normal": "vintage_cabinet_01_a_Normal.jpg",
+   "mask": "vintage_cabinet_01_a_Mask.png"
+  },
+  "vintage_cabinet_01_b": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_cabinet_01_b_Albedo.jpg",
+   "normal": "vintage_cabinet_01_b_Normal.jpg",
+   "mask": "vintage_cabinet_01_b_Mask.png"
+  },
+  "vintage_cabinet_01_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    0.029999999329447746,
+    0.029999999329447746,
+    0.029999999329447746,
+    0.30000001192092896
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "normal": "vintage_cabinet_01_glass_Normal.jpg",
+   "mask": "vintage_cabinet_01_glass_Mask.png"
+  }
+ }
+}

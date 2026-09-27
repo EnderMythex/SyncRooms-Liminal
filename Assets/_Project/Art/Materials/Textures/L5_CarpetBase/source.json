@@ -1,0 +1,12 @@
+{
+ "source": "acg",
+ "id": "Carpet015",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "normal",
+  "rough"
+ ]
+}

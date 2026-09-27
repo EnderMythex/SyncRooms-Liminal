@@ -1,0 +1,47 @@
+{
+ "id": "vintage_flashlight",
+ "group": "Items",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/vintage_flashlight",
+ "tris": 10562,
+ "size": [
+  0.09586484730243683,
+  0.1443331092596054,
+  0.30546391010284424
+ ],
+ "materials": {
+  "vintage_flashlight": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_flashlight_Albedo.jpg",
+   "normal": "vintage_flashlight_Normal.jpg",
+   "mask": "vintage_flashlight_Mask.png"
+  },
+  "vintage_flashlight_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_flashlight_glass_Albedo.jpg",
+   "normal": "vintage_flashlight_glass_Normal.jpg",
+   "mask": "vintage_flashlight_glass_Mask.png"
+  }
+ }
+}

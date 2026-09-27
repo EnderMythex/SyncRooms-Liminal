@@ -1,0 +1,63 @@
+{
+ "id": "tree_small_02",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/tree_small_02",
+ "tris": 120000,
+ "size": [
+  2.9176087379455566,
+  4.559774875640869,
+  4.2956061363220215
+ ],
+ "materials": {
+  "tree_small_02_branches": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "tree_small_02_branches_Albedo.jpg",
+   "normal": "tree_small_02_branches_Normal.jpg",
+   "mask": "tree_small_02_branches_Mask.png"
+  },
+  "tree_small_02_leaves": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "tree_small_02_leaves_Albedo.jpg",
+   "normal": "tree_small_02_leaves_Normal.jpg",
+   "mask": "tree_small_02_leaves_Mask.png"
+  },
+  "tree_small_02_trunk": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "tree_small_02_trunk_Albedo.jpg",
+   "normal": "tree_small_02_trunk_Normal.jpg",
+   "mask": "tree_small_02_trunk_Mask.png"
+  }
+ }
+}

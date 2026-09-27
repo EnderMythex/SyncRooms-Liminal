@@ -1,0 +1,31 @@
+{
+ "id": "lifebuoy",
+ "group": "Pool",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/lifebuoy",
+ "tris": 10728,
+ "size": [
+  0.7831282019615173,
+  0.841193437576294,
+  0.15511851012706757
+ ],
+ "materials": {
+  "lifebuoy": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "lifebuoy_Albedo.jpg",
+   "normal": "lifebuoy_Normal.jpg",
+   "mask": "lifebuoy_Mask.png"
+  }
+ }
+}

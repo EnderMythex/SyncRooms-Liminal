@@ -1,0 +1,31 @@
+{
+ "id": "shrub_02",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/shrub_02",
+ "tris": 27254,
+ "size": [
+  6.053877830505371,
+  1.70254647731781,
+  2.285062313079834
+ ],
+ "materials": {
+  "shrub_02": {
+   "alphaMode": "MASK",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "shrub_02_Albedo.jpg",
+   "normal": "shrub_02_Normal.jpg",
+   "mask": "shrub_02_Mask.png"
+  }
+ }
+}

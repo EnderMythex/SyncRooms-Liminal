@@ -1,0 +1,31 @@
+{
+ "id": "wooden_display_shelves_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/wooden_display_shelves_01",
+ "tris": 3174,
+ "size": [
+  0.3715096414089203,
+  1.5561838150024414,
+  1.077760934829712
+ ],
+ "materials": {
+  "wooden_display_shelves_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "wooden_display_shelves_01_Albedo.jpg",
+   "normal": "wooden_display_shelves_01_Normal.jpg",
+   "mask": "wooden_display_shelves_01_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "drawer_cabinet",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/drawer_cabinet",
+ "tris": 26406,
+ "size": [
+  1.1410778760910034,
+  1.881253957748413,
+  0.48808470368385315
+ ],
+ "materials": {
+  "drawer_cabinet": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "drawer_cabinet_Albedo.jpg",
+   "normal": "drawer_cabinet_Normal.jpg",
+   "mask": "drawer_cabinet_Mask.png"
+  }
+ }
+}

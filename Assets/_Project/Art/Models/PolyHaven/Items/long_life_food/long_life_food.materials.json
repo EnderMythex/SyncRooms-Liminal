@@ -1,0 +1,31 @@
+{
+ "id": "long_life_food",
+ "group": "Items",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/long_life_food",
+ "tris": 4712,
+ "size": [
+  0.5237634181976318,
+  0.23757457733154297,
+  0.11355656385421753
+ ],
+ "materials": {
+  "long_life_food": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "long_life_food_Albedo.jpg",
+   "normal": "long_life_food_Normal.jpg",
+   "mask": "long_life_food_Mask.png"
+  }
+ }
+}

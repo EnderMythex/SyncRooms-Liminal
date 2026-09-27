@@ -1,0 +1,31 @@
+{
+ "id": "covered_car",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/covered_car",
+ "tris": 12592,
+ "size": [
+  1.7889628410339355,
+  1.4111130237579346,
+  4.38025426864624
+ ],
+ "materials": {
+  "covered_car": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "covered_car_Albedo.jpg",
+   "normal": "covered_car_Normal.jpg",
+   "mask": "covered_car_Mask.png"
+  }
+ }
+}

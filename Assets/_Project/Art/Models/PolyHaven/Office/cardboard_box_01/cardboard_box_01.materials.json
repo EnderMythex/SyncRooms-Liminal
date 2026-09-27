@@ -1,0 +1,31 @@
+{
+ "id": "cardboard_box_01",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/cardboard_box_01",
+ "tris": 16952,
+ "size": [
+  0.38702359795570374,
+  0.3417995572090149,
+  0.5158704519271851
+ ],
+ "materials": {
+  "cardboard_box_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "cardboard_box_01_Albedo.jpg",
+   "normal": "cardboard_box_01_Normal.jpg",
+   "mask": "cardboard_box_01_Mask.png"
+  }
+ }
+}

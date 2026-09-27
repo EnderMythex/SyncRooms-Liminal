@@ -1,0 +1,31 @@
+{
+ "id": "fire_alarm",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/fire_alarm",
+ "tris": 2705,
+ "size": [
+  0.09944874793291092,
+  0.14364254474639893,
+  0.02637471631169319
+ ],
+ "materials": {
+  "fire_alarm": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "fire_alarm_Albedo.jpg",
+   "normal": "fire_alarm_Normal.jpg",
+   "mask": "fire_alarm_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a713371038dab4dada3b11e9926d9e, type: 3}
+  m_Name: keycard_l4
+  m_EditorClassIdentifier: Assembly-CSharp::SyncRooms.Inventory.ItemDefinition
+  id: keycard_l4
+  displayName: "Badge d'acc\xE8s"
+  description: "\xAB SERVICES G\xC9N\xC9RAUX \u2014 ACC\xC8S ESCALIER B \xBB. La photo a \xE9t\xE9 effac\xE9e."
+  icon: {fileID: 4472885444503777780, guid: 11fdbdaec740cb046b24f6ca2d12cece, type: 3}
+  worldPrefab: {fileID: 2650198400005203740, guid: b0a9bc38ac2cd7749acc352edd8ca8f8, type: 3}
+  maxStack: 1
+  use: 7
+  amount: 0
+  consumeOnUse: 0
+  noteText: 

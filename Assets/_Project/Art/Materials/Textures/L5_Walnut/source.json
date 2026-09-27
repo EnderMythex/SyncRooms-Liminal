@@ -1,0 +1,12 @@
+{
+ "source": "ph",
+ "id": "black_walnut_veneer_01",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "normal",
+  "rough"
+ ]
+}

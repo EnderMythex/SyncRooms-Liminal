@@ -1,0 +1,31 @@
+{
+ "id": "binder_notebook",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/binder_notebook",
+ "tris": 18077,
+ "size": [
+  0.5840288400650024,
+  0.025289427489042282,
+  0.19995832443237305
+ ],
+ "materials": {
+  "binder_notebook": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "binder_notebook_Albedo.jpg",
+   "normal": "binder_notebook_Normal.jpg",
+   "mask": "binder_notebook_Mask.png"
+  }
+ }
+}

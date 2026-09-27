@@ -1,0 +1,63 @@
+{
+ "id": "korean_fire_extinguisher_01",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/korean_fire_extinguisher_01",
+ "tris": 9913,
+ "size": [
+  0.2799575924873352,
+  0.6592507362365723,
+  0.3674432635307312
+ ],
+ "materials": {
+  "korean_fire_extinguisher_01_body": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "korean_fire_extinguisher_01_body_Albedo.jpg",
+   "normal": "korean_fire_extinguisher_01_body_Normal.jpg",
+   "mask": "korean_fire_extinguisher_01_body_Mask.png"
+  },
+  "korean_fire_extinguisher_01_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    0.30000001192092896
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "korean_fire_extinguisher_01_glass_Albedo.jpg",
+   "normal": "korean_fire_extinguisher_01_glass_Normal.jpg",
+   "mask": "korean_fire_extinguisher_01_glass_Mask.png"
+  },
+  "korean_fire_extinguisher_01_paper": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": false,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "korean_fire_extinguisher_01_paper_Albedo.jpg",
+   "normal": "korean_fire_extinguisher_01_paper_Normal.jpg",
+   "mask": "korean_fire_extinguisher_01_paper_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "antique_ceramic_vase_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/antique_ceramic_vase_01",
+ "tris": 9408,
+ "size": [
+  0.25502997636795044,
+  0.43955305218696594,
+  0.25502994656562805
+ ],
+ "materials": {
+  "antique_ceramic_vase_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "antique_ceramic_vase_01_Albedo.jpg",
+   "normal": "antique_ceramic_vase_01_Normal.jpg",
+   "mask": "antique_ceramic_vase_01_Mask.png"
+  }
+ }
+}

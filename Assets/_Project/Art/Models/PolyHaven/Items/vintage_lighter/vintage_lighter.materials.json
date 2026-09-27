@@ -1,0 +1,47 @@
+{
+ "id": "vintage_lighter",
+ "group": "Items",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/vintage_lighter",
+ "tris": 3366,
+ "size": [
+  0.07962855696678162,
+  0.06502480804920197,
+  0.014000006020069122
+ ],
+ "materials": {
+  "vintage_lighter": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": false,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_lighter_Albedo.jpg",
+   "normal": "vintage_lighter_Normal.jpg",
+   "mask": "vintage_lighter_Mask.png"
+  },
+  "vintage_lighter_alpha": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": false,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_lighter_alpha_Albedo.jpg",
+   "normal": "vintage_lighter_alpha_Normal.jpg",
+   "mask": "vintage_lighter_alpha_Mask.png"
+  }
+ }
+}

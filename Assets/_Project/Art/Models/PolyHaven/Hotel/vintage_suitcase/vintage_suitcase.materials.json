@@ -1,0 +1,47 @@
+{
+ "id": "vintage_suitcase",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/vintage_suitcase",
+ "tris": 16474,
+ "size": [
+  1.6081829071044922,
+  0.567905068397522,
+  0.23917542397975922
+ ],
+ "materials": {
+  "vintage_suitcase_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_suitcase_01_Albedo.jpg",
+   "normal": "vintage_suitcase_01_Normal.jpg",
+   "mask": "vintage_suitcase_01_Mask.png"
+  },
+  "vintage_suitcase_02": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_suitcase_02_Albedo.jpg",
+   "normal": "vintage_suitcase_02_Normal.jpg",
+   "mask": "vintage_suitcase_02_Mask.png"
+  }
+ }
+}

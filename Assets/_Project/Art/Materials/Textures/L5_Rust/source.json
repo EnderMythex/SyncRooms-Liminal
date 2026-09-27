@@ -1,0 +1,12 @@
+{
+ "source": "acg",
+ "id": "Metal053C",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "height",
+  "metal",
+  "normal",
+  "rough"
+ ]
+}

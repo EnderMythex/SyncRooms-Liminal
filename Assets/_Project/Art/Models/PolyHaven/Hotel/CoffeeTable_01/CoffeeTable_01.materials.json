@@ -1,0 +1,31 @@
+{
+ "id": "CoffeeTable_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/CoffeeTable_01",
+ "tris": 10404,
+ "size": [
+  1.5400111675262451,
+  0.5232373476028442,
+  0.972847044467926
+ ],
+ "materials": {
+  "CoffeeTable_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "CoffeeTable_01_Albedo.jpg",
+   "normal": "CoffeeTable_01_Normal.jpg",
+   "mask": "CoffeeTable_01_Mask.png"
+  }
+ }
+}

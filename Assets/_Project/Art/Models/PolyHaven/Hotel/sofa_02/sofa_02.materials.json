@@ -1,0 +1,31 @@
+{
+ "id": "sofa_02",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/sofa_02",
+ "tris": 2728,
+ "size": [
+  1.8071672916412354,
+  0.7094889283180237,
+  0.817751407623291
+ ],
+ "materials": {
+  "sofa_02": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "sofa_02_Albedo.jpg",
+   "normal": "sofa_02_Normal.jpg",
+   "mask": "sofa_02_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "clipboard",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/clipboard",
+ "tris": 6176,
+ "size": [
+  0.2286001443862915,
+  0.04199034348130226,
+  0.33655011653900146
+ ],
+ "materials": {
+  "clipboard": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "clipboard_Albedo.jpg",
+   "normal": "clipboard_Normal.jpg",
+   "mask": "clipboard_Mask.png"
+  }
+ }
+}

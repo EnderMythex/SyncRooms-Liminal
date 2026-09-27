@@ -1,0 +1,46 @@
+{
+ "id": "pocket_watch",
+ "group": "Items",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/pocket_watch",
+ "tris": 15615,
+ "size": [
+  0.057678163051605225,
+  0.07559482753276825,
+  0.015626687556505203
+ ],
+ "materials": {
+  "pocket_watch": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "pocket_watch_Albedo.jpg",
+   "normal": "pocket_watch_Normal.jpg",
+   "mask": "pocket_watch_Mask.png"
+  },
+  "pocket_watch_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    0.30000001192092896
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "transmission": 1,
+   "mask": "pocket_watch_glass_Mask.png"
+  }
+ }
+}

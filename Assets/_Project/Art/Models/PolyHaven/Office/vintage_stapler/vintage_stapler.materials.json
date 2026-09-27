@@ -1,0 +1,31 @@
+{
+ "id": "vintage_stapler",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/vintage_stapler",
+ "tris": 4370,
+ "size": [
+  0.208464115858078,
+  0.09526899456977844,
+  0.04741005226969719
+ ],
+ "materials": {
+  "vintage_stapler": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_stapler_Albedo.jpg",
+   "normal": "vintage_stapler_Normal.jpg",
+   "mask": "vintage_stapler_Mask.png"
+  }
+ }
+}

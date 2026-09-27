@@ -1,0 +1,31 @@
+{
+ "id": "old_tyre",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/old_tyre",
+ "tris": 2880,
+ "size": [
+  0.6000000238418579,
+  0.6000000238418579,
+  0.16499999165534973
+ ],
+ "materials": {
+  "old_tyre": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "old_tyre_Albedo.jpg",
+   "normal": "old_tyre_Normal.jpg",
+   "mask": "old_tyre_Mask.png"
+  }
+ }
+}

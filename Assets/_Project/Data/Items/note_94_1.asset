@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a713371038dab4dada3b11e9926d9e, type: 3}
+  m_Name: note_94_1
+  m_EditorClassIdentifier: Assembly-CSharp::SyncRooms.Inventory.ItemDefinition
+  id: note_94_1
+  displayName: Tract du village
+  description: Un tract jauni aux couleurs vives.
+  icon: {fileID: 2909382720043466684, guid: 6d13ecc265135174f9ebf0bcb4f8fa5a, type: 3}
+  worldPrefab: {fileID: 494481875278274472, guid: aef4e96317e224e49978f77ea106c5f5, type: 3}
+  maxStack: 1
+  use: 6
+  amount: 0
+  consumeOnUse: 0
+  noteText: "BIENVENUE \xC0 MOTION !\n\nProfitez du soleil, de la musique et de nos charmantes maisons !\n\nQuand les sir\xE8nes jouent leur petit air, tout va bien.\nQuand la musique S'ARR\xCATE, rentrez chez vous.\n\nLa fontaine de la place d\xE9borde d'eau d'amande. Certains disent qu'en plongeant dedans, on se r\xE9veille ailleurs \u2014 dans une eau calme et chaude, sous une lumi\xE8re tr\xE8s blanche.\n\nNe regardez pas trop longtemps le ch\xE2teau."

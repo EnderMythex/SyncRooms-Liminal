@@ -1,0 +1,13 @@
+{
+ "source": "ph",
+ "id": "velour_velvet",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "metal",
+  "normal",
+  "rough"
+ ]
+}

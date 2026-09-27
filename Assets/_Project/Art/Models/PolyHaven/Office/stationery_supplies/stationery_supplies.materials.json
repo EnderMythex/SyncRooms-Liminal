@@ -1,0 +1,31 @@
+{
+ "id": "stationery_supplies",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/stationery_supplies",
+ "tris": 4412,
+ "size": [
+  0.3018620014190674,
+  0.16434767842292786,
+  0.08366207033395767
+ ],
+ "materials": {
+  "stationery_supplies": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "stationery_supplies_Albedo.jpg",
+   "normal": "stationery_supplies_Normal.jpg",
+   "mask": "stationery_supplies_Mask.png"
+  }
+ }
+}

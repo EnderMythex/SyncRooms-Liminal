@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a713371038dab4dada3b11e9926d9e, type: 3}
+  m_Name: pocket_watch
+  m_EditorClassIdentifier: Assembly-CSharp::SyncRooms.Inventory.ItemDefinition
+  id: pocket_watch
+  displayName: "Montre \xE0 gousset"
+  description: Elle avance, puis recule. Les aiguilles indiquent toujours 3 h 33.
+  icon: {fileID: -5369857091637070488, guid: 8832342b24ebb24408ed2c9803f58e91, type: 3}
+  worldPrefab: {fileID: 3540639254326618197, guid: 7499f4266868726428901ae7fd54ad93, type: 3}
+  maxStack: 1
+  use: 0
+  amount: 0
+  consumeOnUse: 0
+  noteText: 

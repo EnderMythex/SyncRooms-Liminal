@@ -1,0 +1,31 @@
+{
+ "id": "ClassicConsole_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/ClassicConsole_01",
+ "tris": 7566,
+ "size": [
+  1.5430203676223755,
+  0.9490714073181152,
+  0.5892754197120667
+ ],
+ "materials": {
+  "ClassicConsole_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "ClassicConsole_01_Albedo.jpg",
+   "normal": "ClassicConsole_01_Normal.jpg",
+   "mask": "ClassicConsole_01_Mask.png"
+  }
+ }
+}

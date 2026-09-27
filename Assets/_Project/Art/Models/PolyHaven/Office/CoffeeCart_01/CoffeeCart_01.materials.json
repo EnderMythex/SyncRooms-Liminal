@@ -1,0 +1,60 @@
+{
+ "id": "CoffeeCart_01",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/CoffeeCart_01",
+ "tris": 27659,
+ "size": [
+  2.1676368713378906,
+  1.7176724672317505,
+  1.0732901096343994
+ ],
+ "materials": {
+  "CoffeeCart_01_cart": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "CoffeeCart_01_cart_Albedo.jpg",
+   "normal": "CoffeeCart_01_cart_Normal.jpg",
+   "mask": "CoffeeCart_01_cart_Mask.png"
+  },
+  "CoffeeCart_01_props": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "CoffeeCart_01_props_Albedo.jpg",
+   "normal": "CoffeeCart_01_props_Normal.jpg",
+   "mask": "CoffeeCart_01_props_Mask.png"
+  },
+  "CoffeeCart_01_mugs": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    0.800000011920929,
+    0.800000011920929,
+    0.800000011920929,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 0.15454545617103577
+  }
+ }
+}

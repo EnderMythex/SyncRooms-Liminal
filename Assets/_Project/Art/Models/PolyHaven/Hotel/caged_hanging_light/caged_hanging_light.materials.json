@@ -1,0 +1,31 @@
+{
+ "id": "caged_hanging_light",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/caged_hanging_light",
+ "tris": 22893,
+ "size": [
+  1.1618340015411377,
+  0.7500966191291809,
+  0.3148960471153259
+ ],
+ "materials": {
+  "caged_hanging_light": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "caged_hanging_light_Albedo.jpg",
+   "normal": "caged_hanging_light_Normal.jpg",
+   "mask": "caged_hanging_light_Mask.png"
+  }
+ }
+}

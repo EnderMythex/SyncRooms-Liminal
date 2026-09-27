@@ -1,0 +1,12 @@
+{
+ "source": "acg",
+ "id": "Ground030",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "normal",
+  "rough"
+ ]
+}

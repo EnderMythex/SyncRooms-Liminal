@@ -1,0 +1,31 @@
+{
+ "id": "industrial_caged_sconce",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/industrial_caged_sconce",
+ "tris": 26576,
+ "size": [
+  1.2101812362670898,
+  0.9128422737121582,
+  0.3894345760345459
+ ],
+ "materials": {
+  "industrial_caged_sconce": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "industrial_caged_sconce_Albedo.jpg",
+   "normal": "industrial_caged_sconce_Normal.jpg",
+   "mask": "industrial_caged_sconce_Mask.png"
+  }
+ }
+}

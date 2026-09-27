@@ -1,0 +1,13 @@
+{
+ "source": "acg",
+ "id": "Planks037A",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "metal",
+  "normal",
+  "rough"
+ ]
+}

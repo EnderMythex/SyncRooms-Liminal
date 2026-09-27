@@ -1,0 +1,47 @@
+{
+ "id": "mounted_fluorescent_lights",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/mounted_fluorescent_lights",
+ "tris": 17820,
+ "size": [
+  0.9121809005737305,
+  0.03535318747162819,
+  0.6454365849494934
+ ],
+ "materials": {
+  "mounted_fluorescent_lights": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "mounted_fluorescent_lights_Albedo.jpg",
+   "normal": "mounted_fluorescent_lights_Normal.jpg",
+   "mask": "mounted_fluorescent_lights_Mask.png"
+  },
+  "mounted_fluorescent_lights_glass": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "mounted_fluorescent_lights_glass_Albedo.jpg",
+   "normal": "mounted_fluorescent_lights_glass_Normal.jpg",
+   "mask": "mounted_fluorescent_lights_glass_Mask.png"
+  }
+ }
+}

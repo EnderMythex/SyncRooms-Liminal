@@ -1,0 +1,47 @@
+{
+ "id": "steel_frame_shelves_03",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/steel_frame_shelves_03",
+ "tris": 8396,
+ "size": [
+  2.351077079772949,
+  2.311832904815674,
+  0.7212461233139038
+ ],
+ "materials": {
+  "steel_frame_shelves_03": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "steel_frame_shelves_03_Albedo.jpg",
+   "normal": "steel_frame_shelves_03_Normal.jpg",
+   "mask": "steel_frame_shelves_03_Mask.png"
+  },
+  "steel_frame_shelves_03_drawers": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "steel_frame_shelves_03_drawers_Albedo.jpg",
+   "normal": "steel_frame_shelves_03_drawers_Normal.jpg",
+   "mask": "steel_frame_shelves_03_drawers_Mask.png"
+  }
+ }
+}

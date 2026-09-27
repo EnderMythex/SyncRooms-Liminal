@@ -1,0 +1,309 @@
+{
+ "_comment": "name: [query, minDur, maxDur, count]. Freesound, CC0 preferred, CC-BY fallback (credited in CREDITS.md).",
+ "Ambience/amb_fluorescent_hum": [
+  "fluorescent light hum",
+  15,
+  180,
+  1
+ ],
+ "Ambience/amb_office_hvac": [
+  "office air conditioning room tone",
+  30,
+  400,
+  1
+ ],
+ "Ambience/amb_building_tone": [
+  "empty building room tone",
+  30,
+  400,
+  1
+ ],
+ "Ambience/amb_boiler": [
+  "boiler room machinery hum",
+  20,
+  300,
+  1
+ ],
+ "Ambience/amb_pool": [
+  "indoor swimming pool ambience",
+  20,
+  400,
+  1
+ ],
+ "Ambience/amb_water_lapping": [
+  "water lapping pool",
+  10,
+  200,
+  1
+ ],
+ "Ambience/amb_drip": [
+  "water drip echo",
+  0.3,
+  6,
+  3
+ ],
+ "Ambience/amb_meadow": [
+  "meadow birds summer",
+  30,
+  400,
+  1
+ ],
+ "Ambience/amb_wind": [
+  "wind field ambience",
+  20,
+  300,
+  1
+ ],
+ "Ambience/amb_fountain": [
+  "fountain water splashing",
+  10,
+  200,
+  1
+ ],
+ "Ambience/amb_whispers": [
+  "whispers creepy",
+  5,
+  90,
+  2
+ ],
+ "Ambience/amb_distant_thud": [
+  "distant thud",
+  0.5,
+  6,
+  2
+ ],
+ "Music/music_gramophone": [
+  "phonograph music",
+  30,
+  400,
+  2
+ ],
+ "Music/music_calliope": [
+  "music box melody",
+  15,
+  200,
+  2
+ ],
+ "Footsteps/fs_carpet": [
+  "carpet step",
+  0.15,
+  1.5,
+  4
+ ],
+ "Footsteps/fs_tile": [
+  "footstep tiles",
+  0.15,
+  1.2,
+  4
+ ],
+ "Footsteps/fs_wood": [
+  "footstep wood floor",
+  0.15,
+  1.2,
+  4
+ ],
+ "Footsteps/fs_grass": [
+  "footstep grass",
+  0.15,
+  1.2,
+  4
+ ],
+ "Footsteps/fs_water": [
+  "footstep water splash",
+  0.15,
+  1.5,
+  4
+ ],
+ "Footsteps/fs_concrete": [
+  "footstep concrete",
+  0.15,
+  1.2,
+  4
+ ],
+ "SFX/sfx_pickup": [
+  "item pickup",
+  0.1,
+  2,
+  2
+ ],
+ "SFX/sfx_drink": [
+  "drinking gulp",
+  0.5,
+  5,
+  1
+ ],
+ "SFX/sfx_flashlight": [
+  "flashlight click",
+  0.05,
+  1.5,
+  1
+ ],
+ "SFX/sfx_paper": [
+  "paper rustle",
+  0.3,
+  3,
+  2
+ ],
+ "SFX/sfx_door_open": [
+  "door open creak",
+  0.5,
+  5,
+  1
+ ],
+ "SFX/sfx_door_locked": [
+  "door handle locked",
+  0.3,
+  3,
+  1
+ ],
+ "SFX/sfx_unlock": [
+  "key unlock door",
+  0.3,
+  3,
+  1
+ ],
+ "SFX/sfx_elevator_ding": [
+  "elevator ding",
+  0.3,
+  4,
+  1
+ ],
+ "SFX/sfx_heartbeat": [
+  "heartbeat",
+  1,
+  20,
+  1
+ ],
+ "SFX/sfx_breath": [
+  "heavy breathing tired",
+  2,
+  20,
+  1
+ ],
+ "SFX/sfx_bag": [
+  "backpack zipper",
+  0.3,
+  3,
+  1
+ ],
+ "SFX/sfx_splash_dive": [
+  "water splash big",
+  0.5,
+  6,
+  1
+ ],
+ "SFX/sfx_underwater": [
+  "underwater ambience",
+  5,
+  120,
+  1
+ ],
+ "SFX/sfx_light_flicker": [
+  "fluorescent flicker",
+  0.5,
+  10,
+  1
+ ],
+ "SFX/sfx_eat": [
+  "eating crunch",
+  0.5,
+  5,
+  1
+ ],
+ "SFX/sfx_ui_click": [
+  "ui click",
+  0.02,
+  0.6,
+  1
+ ],
+ "SFX/sfx_siren": [
+  "air raid siren",
+  5,
+  60,
+  1
+ ],
+ "SFX/sfx_hurt": [
+  "pain grunt male",
+  0.2,
+  2,
+  2
+ ],
+ "SFX/sfx_elevator_move": [
+  "elevator",
+  4,
+  40,
+  1
+ ],
+ "Monsters/hound_growl": [
+  "creature growl low",
+  0.5,
+  5,
+  2
+ ],
+ "Monsters/hound_scream": [
+  "monster scream",
+  0.5,
+  4,
+  2
+ ],
+ "Monsters/moth_flutter": [
+  "wings flapping",
+  0.5,
+  6,
+  2
+ ],
+ "Monsters/smiler_giggle": [
+  "creepy giggle",
+  0.5,
+  5,
+  2
+ ],
+ "Monsters/toon_laugh": [
+  "creepy cartoon laugh",
+  0.5,
+  6,
+  2
+ ],
+ "Monsters/slime_squelch": [
+  "slime squelch",
+  0.2,
+  3,
+  3
+ ],
+ "Monsters/leviathan_call": [
+  "whale",
+  2,
+  25,
+  2
+ ],
+ "Ambience/amb_ocean": [
+  "sea waves open water",
+  20,
+  300,
+  1
+ ],
+ "Ambience/amb_foghorn": [
+  "fog horn",
+  2,
+  15,
+  1
+ ],
+ "Ambience/amb_steam": [
+  "steam hiss",
+  1,
+  15,
+  2
+ ],
+ "Ambience/amb_garage": [
+  "parking garage ambience",
+  20,
+  300,
+  1
+ ],
+ "Ambience/amb_night": [
+  "night crickets",
+  20,
+  300,
+  1
+ ]
+}

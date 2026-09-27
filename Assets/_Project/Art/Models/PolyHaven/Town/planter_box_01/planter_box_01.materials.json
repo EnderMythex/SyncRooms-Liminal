@@ -1,0 +1,31 @@
+{
+ "id": "planter_box_01",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/planter_box_01",
+ "tris": 8094,
+ "size": [
+  0.9126113653182983,
+  0.42496824264526367,
+  0.4136679768562317
+ ],
+ "materials": {
+  "planter_box_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "planter_box_01_Albedo.jpg",
+   "normal": "planter_box_01_Normal.jpg",
+   "mask": "planter_box_01_Mask.png"
+  }
+ }
+}

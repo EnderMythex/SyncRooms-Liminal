@@ -1,0 +1,47 @@
+{
+ "id": "projector_screen",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/projector_screen",
+ "tris": 8727,
+ "size": [
+  1.093566656112671,
+  1.799464225769043,
+  0.9158008098602295
+ ],
+ "materials": {
+  "projector_screen_frame": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "projector_screen_frame_Albedo.jpg",
+   "normal": "projector_screen_frame_Normal.jpg",
+   "mask": "projector_screen_frame_Mask.png"
+  },
+  "projector_screen": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "projector_screen_Albedo.jpg",
+   "normal": "projector_screen_Normal.jpg",
+   "mask": "projector_screen_Mask.png"
+  }
+ }
+}

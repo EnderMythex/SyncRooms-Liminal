@@ -1,0 +1,205 @@
+{
+ "id": "wine_bottles_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/wine_bottles_01",
+ "tris": 28848,
+ "size": [
+  0.676324725151062,
+  0.3313671946525574,
+  0.08056290447711945
+ ],
+ "materials": {
+  "wine_bottles_01_glass_orange": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "transmission": 1,
+   "albedo": "wine_bottles_01_glass_orange_Albedo.jpg",
+   "normal": "wine_bottles_01_glass_orange_Normal.jpg",
+   "mask": "wine_bottles_01_glass_orange_Mask.png"
+  },
+  "wine_bottles_01_seal_cork": {
+   "alphaMode": "MASK",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "wine_bottles_01_seal_cork_Albedo.jpg",
+   "normal": "wine_bottles_01_seal_cork_Normal.jpg",
+   "mask": "wine_bottles_01_seal_cork_Mask.png"
+  },
+  "wine_bottles_01_wine_red": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    0.5224650502204895,
+    0.04925941303372383,
+    0.024301469326019287,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 0.12820515036582947,
+   "transmission": 1
+  },
+  "wine_bottles_01_ftero_vinea_02": {
+   "alphaMode": "MASK",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "wine_bottles_01_ftero_vinea_02_Albedo.jpg",
+   "normal": "wine_bottles_01_ftero_vinea_02_Normal.jpg",
+   "mask": "wine_bottles_01_ftero_vinea_02_Mask.png"
+  },
+  "wine_bottles_01_glass_yellow": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "transmission": 1,
+   "albedo": "wine_bottles_01_glass_yellow_Albedo.jpg",
+   "normal": "wine_bottles_01_glass_yellow_Normal.jpg",
+   "mask": "wine_bottles_01_glass_yellow_Mask.png"
+  },
+  "wine_bottles_01_wine_clear": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    0.9324522614479065,
+    0.7874122262001038,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 0.20512822270393372,
+   "transmission": 1
+  },
+  "wine_bottles_01_clearwater": {
+   "alphaMode": "MASK",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "wine_bottles_01_clearwater_Albedo.jpg",
+   "normal": "wine_bottles_01_clearwater_Normal.jpg",
+   "mask": "wine_bottles_01_clearwater_Mask.png"
+  },
+  "wine_bottles_01_glass_clear": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "transmission": 1,
+   "albedo": "wine_bottles_01_glass_clear_Albedo.jpg",
+   "normal": "wine_bottles_01_glass_clear_Normal.jpg",
+   "mask": "wine_bottles_01_glass_clear_Mask.png"
+  },
+  "wine_bottles_01_wine_light_red": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    0.08782617002725601,
+    0.04163853079080582,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 0.12820515036582947,
+   "transmission": 1
+  },
+  "wine_bottles_01_intertwine": {
+   "alphaMode": "MASK",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "wine_bottles_01_intertwine_Albedo.jpg",
+   "normal": "wine_bottles_01_intertwine_Normal.jpg",
+   "mask": "wine_bottles_01_intertwine_Mask.png"
+  },
+  "wine_bottles_01_glass_green": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "transmission": 1,
+   "albedo": "wine_bottles_01_glass_green_Albedo.jpg",
+   "normal": "wine_bottles_01_glass_green_Normal.jpg",
+   "mask": "wine_bottles_01_glass_green_Mask.png"
+  },
+  "wine_bottles_01_ftero_vinea_01": {
+   "alphaMode": "MASK",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "wine_bottles_01_ftero_vinea_01_Albedo.jpg",
+   "normal": "wine_bottles_01_ftero_vinea_01_Normal.jpg",
+   "mask": "wine_bottles_01_ftero_vinea_01_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "id": "fancy_picture_frame_02",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/fancy_picture_frame_02",
+ "tris": 35102,
+ "size": [
+  0.6605590581893921,
+  0.7710452079772949,
+  0.08904315531253815
+ ],
+ "materials": {
+  "fancy_picture_frame_02": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "fancy_picture_frame_02_Albedo.jpg",
+   "normal": "fancy_picture_frame_02_Normal.jpg",
+   "mask": "fancy_picture_frame_02_Mask.png"
+  },
+  "fancy_picture_frame_02_canvas": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "fancy_picture_frame_02_canvas_Albedo.jpg",
+   "normal": "fancy_picture_frame_02_canvas_Normal.jpg",
+   "mask": "fancy_picture_frame_02_canvas_Mask.png"
+  }
+ }
+}

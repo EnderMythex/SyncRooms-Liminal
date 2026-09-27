@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a713371038dab4dada3b11e9926d9e, type: 3}
+  m_Name: cassette
+  m_EditorClassIdentifier: Assembly-CSharp::SyncRooms.Inventory.ItemDefinition
+  id: cassette
+  displayName: Cassette audio
+  description: Un baladeur avec une cassette encore dedans.
+  icon: {fileID: -6225775655805854364, guid: 5ac3fb05ae9c6fe41bd6cfacf145cc39, type: 3}
+  worldPrefab: {fileID: 5714148645575522966, guid: 0a072d6258c4abe47a07ccb3c9f05439, type: 3}
+  maxStack: 1
+  use: 6
+  amount: 0
+  consumeOnUse: 0
+  noteText: "[Transcription \u2014 la bande gr\xE9sille]\n\n\xAB ...jour 41. Le bourdonnement ne s'arr\xEAte jamais. Je l'entends m\xEAme quand je bouche mes oreilles.\n\nSi vous trouvez \xE7a : ne courez pas dans les couloirs du bureau. Marchez. Les n\xE9ons clignotent quand quelque chose approche.\n\nL'escalier B m\xE8ne \xE0 l'h\xF4tel. Il faut un badge. J'ai laiss\xE9 le mien pr\xE8s des distributeurs... ou peut-\xEAtre pas. Je ne sais plus.\n\nBuvez l'eau d'amande. Toujours. \xBB\n\n[fin de la bande]"

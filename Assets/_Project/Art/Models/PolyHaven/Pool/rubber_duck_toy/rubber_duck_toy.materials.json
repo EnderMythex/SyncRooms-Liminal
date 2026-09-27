@@ -1,0 +1,31 @@
+{
+ "id": "rubber_duck_toy",
+ "group": "Pool",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/rubber_duck_toy",
+ "tris": 4288,
+ "size": [
+  0.213504821062088,
+  0.2855228781700134,
+  0.30000218749046326
+ ],
+ "materials": {
+  "rubber_duck_toy": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "rubber_duck_toy_Albedo.jpg",
+   "normal": "rubber_duck_toy_Normal.jpg",
+   "mask": "rubber_duck_toy_Mask.png"
+  }
+ }
+}

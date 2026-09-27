@@ -1,0 +1,47 @@
+{
+ "id": "fire_hydrant",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/fire_hydrant",
+ "tris": 86316,
+ "size": [
+  0.8746235966682434,
+  0.799456000328064,
+  0.31774356961250305
+ ],
+ "materials": {
+  "fire_hydrant": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "fire_hydrant_Albedo.jpg",
+   "normal": "fire_hydrant_Normal.jpg",
+   "mask": "fire_hydrant_Mask.png"
+  },
+  "fire_hydrant_aged": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "fire_hydrant_aged_Albedo.jpg",
+   "normal": "fire_hydrant_aged_Normal.jpg",
+   "mask": "fire_hydrant_aged_Mask.png"
+  }
+ }
+}

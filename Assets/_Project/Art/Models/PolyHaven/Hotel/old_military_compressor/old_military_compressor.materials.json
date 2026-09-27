@@ -1,0 +1,47 @@
+{
+ "id": "old_military_compressor",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/old_military_compressor",
+ "tris": 79042,
+ "size": [
+  0.5982826352119446,
+  1.1790863275527954,
+  1.675544261932373
+ ],
+ "materials": {
+  "old_military_compressor": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "old_military_compressor_Albedo.jpg",
+   "normal": "old_military_compressor_Normal.jpg",
+   "mask": "old_military_compressor_Mask.png"
+  },
+  "old_military_compressor_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "old_military_compressor_glass_Albedo.jpg",
+   "normal": "old_military_compressor_glass_Normal.jpg",
+   "mask": "old_military_compressor_glass_Mask.png"
+  }
+ }
+}

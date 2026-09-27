@@ -1,0 +1,46 @@
+{
+ "id": "wall_clock",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/wall_clock",
+ "tris": 3658,
+ "size": [
+  0.3204909861087799,
+  0.3204909861087799,
+  0.04722309485077858
+ ],
+ "materials": {
+  "wall_clock": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "wall_clock_Albedo.jpg",
+   "normal": "wall_clock_Normal.jpg",
+   "mask": "wall_clock_Mask.png"
+  },
+  "wall_clock_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    0.800000011920929,
+    0.800000011920929,
+    0.800000011920929,
+    0.4000000059604645
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "transmission": 1,
+   "mask": "wall_clock_glass_Mask.png"
+  }
+ }
+}

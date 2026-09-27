@@ -1,0 +1,31 @@
+{
+ "id": "ClassicNightstand_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/ClassicNightstand_01",
+ "tris": 2002,
+ "size": [
+  0.5677522420883179,
+  0.6999650001525879,
+  0.424192875623703
+ ],
+ "materials": {
+  "ClassicNightstand_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "ClassicNightstand_01_Albedo.jpg",
+   "normal": "ClassicNightstand_01_Normal.jpg",
+   "mask": "ClassicNightstand_01_Mask.png"
+  }
+ }
+}

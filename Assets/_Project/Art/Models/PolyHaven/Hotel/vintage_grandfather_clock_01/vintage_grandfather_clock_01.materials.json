@@ -1,0 +1,47 @@
+{
+ "id": "vintage_grandfather_clock_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/vintage_grandfather_clock_01",
+ "tris": 8582,
+ "size": [
+  0.6256247758865356,
+  2.190591812133789,
+  0.4266166388988495
+ ],
+ "materials": {
+  "vintage_grandfather_clock_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_grandfather_clock_01_Albedo.jpg",
+   "normal": "vintage_grandfather_clock_01_Normal.jpg",
+   "mask": "vintage_grandfather_clock_01_Mask.png"
+  },
+  "vintage_grandfather_clock_01_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "vintage_grandfather_clock_01_glass_Albedo.jpg",
+   "normal": "vintage_grandfather_clock_01_glass_Normal.jpg",
+   "mask": "vintage_grandfather_clock_01_glass_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "marble_bust_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/marble_bust_01",
+ "tris": 17456,
+ "size": [
+  0.2717496156692505,
+  0.5149431824684143,
+  0.299713671207428
+ ],
+ "materials": {
+  "marble_bust_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "marble_bust_01_Albedo.jpg",
+   "normal": "marble_bust_01_Normal.jpg",
+   "mask": "marble_bust_01_Mask.png"
+  }
+ }
+}

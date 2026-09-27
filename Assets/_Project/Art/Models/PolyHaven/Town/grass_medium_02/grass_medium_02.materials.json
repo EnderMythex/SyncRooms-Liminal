@@ -1,0 +1,31 @@
+{
+ "id": "grass_medium_02",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/grass_medium_02",
+ "tris": 7842,
+ "size": [
+  1.3106353282928467,
+  0.40531423687934875,
+  0.43324655294418335
+ ],
+ "materials": {
+  "grass_medium_02": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "grass_medium_02_Albedo.jpg",
+   "normal": "grass_medium_02_Normal.jpg",
+   "mask": "grass_medium_02_Mask.png"
+  }
+ }
+}

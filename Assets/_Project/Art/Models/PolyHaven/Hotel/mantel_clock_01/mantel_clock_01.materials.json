@@ -1,0 +1,47 @@
+{
+ "id": "mantel_clock_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/mantel_clock_01",
+ "tris": 25721,
+ "size": [
+  0.34234005212783813,
+  0.16047941148281097,
+  0.12616859376430511
+ ],
+ "materials": {
+  "mantel_clock_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "mantel_clock_01_Albedo.jpg",
+   "normal": "mantel_clock_01_Normal.jpg",
+   "mask": "mantel_clock_01_Mask.png"
+  },
+  "mantel_clock_01_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    0.30000001192092896
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "mantel_clock_01_glass_Albedo.jpg",
+   "normal": "mantel_clock_01_glass_Normal.jpg",
+   "mask": "mantel_clock_01_glass_Mask.png"
+  }
+ }
+}

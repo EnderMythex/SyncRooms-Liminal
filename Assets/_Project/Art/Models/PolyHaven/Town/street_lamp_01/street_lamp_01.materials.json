@@ -1,0 +1,63 @@
+{
+ "id": "street_lamp_01",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/street_lamp_01",
+ "tris": 30610,
+ "size": [
+  0.7043362259864807,
+  3.8705554008483887,
+  0.38649314641952515
+ ],
+ "materials": {
+  "street_lamp_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "street_lamp_01_Albedo.jpg",
+   "normal": "street_lamp_01_Normal.jpg",
+   "mask": "street_lamp_01_Mask.png"
+  },
+  "street_lamp_01_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "street_lamp_01_glass_Albedo.jpg",
+   "normal": "street_lamp_01_glass_Normal.jpg",
+   "mask": "street_lamp_01_glass_Mask.png"
+  },
+  "street_lamp_01_bulb": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "street_lamp_01_bulb_Albedo.jpg",
+   "normal": "street_lamp_01_bulb_Normal.jpg",
+   "mask": "street_lamp_01_bulb_Mask.png"
+  }
+ }
+}

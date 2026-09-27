@@ -1,0 +1,44 @@
+{
+ "id": "classic_laptop",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/classic_laptop",
+ "tris": 14450,
+ "size": [
+  0.6519346237182617,
+  0.54281085729599,
+  0.4859423041343689
+ ],
+ "materials": {
+  "classic_laptop": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "classic_laptop_Albedo.jpg",
+   "normal": "classic_laptop_Normal.jpg",
+   "mask": "classic_laptop_Mask.png"
+  },
+  "classic_laptop_screen": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    0.018754420801997185,
+    0.018754420801997185,
+    0.018754420801997185,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 0.6000000238418579
+  }
+ }
+}

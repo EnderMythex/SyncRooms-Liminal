@@ -1,0 +1,11 @@
+{
+ "source": "acg",
+ "id": "Concrete036",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "height",
+  "normal",
+  "rough"
+ ]
+}

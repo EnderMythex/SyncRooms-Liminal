@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a713371038dab4dada3b11e9926d9e, type: 3}
+  m_Name: almond_water
+  m_EditorClassIdentifier: Assembly-CSharp::SyncRooms.Inventory.ItemDefinition
+  id: almond_water
+  displayName: Eau d'amande
+  description: "Almond Water. L\xE9g\xE8rement sucr\xE9e, elle apaise l'esprit et restaure la sant\xE9 mentale. La ressource la plus pr\xE9cieuse des Backrooms."
+  icon: {fileID: 3153795968753847246, guid: d9892c6d86903ec4ebcdbe256180d53a, type: 3}
+  worldPrefab: {fileID: 1287969667321221393, guid: a6cb922788c8e85448abe80839e40a79, type: 3}
+  maxStack: 5
+  use: 1
+  amount: 30
+  consumeOnUse: 1
+  noteText: 

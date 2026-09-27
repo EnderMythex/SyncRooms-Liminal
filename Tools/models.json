@@ -1,0 +1,38 @@
+{
+  "_comment": "Poly Haven (CC0) models. res = texture resolution. maxTris = decimate above this.",
+  "Office": {
+    "metal_office_desk": "2k", "modern_arm_chair_01": "1k", "mounted_fluorescent_lights": "1k",
+    "fire_alarm": "1k", "wall_clock": "1k", "office_notepads": "1k", "stationery_supplies": "1k",
+    "classic_laptop": "1k", "clipboard": "1k", "potted_plant_02": "1k", "steel_frame_shelves_03": "1k",
+    "drawer_cabinet": "1k", "WetFloorSign_01": "1k", "CoffeeCart_01": "1k", "projector_screen": "1k",
+    "cardboard_box_01": "1k", "korean_fire_extinguisher_01": "1k", "trashbag": "1k",
+    "SchoolChair_01": "1k", "plastic_monobloc_chair_01": "1k", "vintage_stapler": "1k", "binder_notebook": "1k"
+  },
+  "Hotel": {
+    "Chandelier_01": "2k", "Chandelier_02": "2k", "ArmChair_01": "2k", "Sofa_01": "2k", "sofa_02": "2k",
+    "GreenChair_01": "1k", "ClassicConsole_01": "2k", "ClassicNightstand_01": "1k", "CoffeeTable_01": "1k",
+    "vintage_cabinet_01": "2k", "vintage_grandfather_clock_01": "2k", "fancy_picture_frame_01": "1k",
+    "fancy_picture_frame_02": "1k", "ornate_mirror_01": "2k", "book_encyclopedia_set_01": "1k",
+    "brass_candleholders": "1k", "marble_bust_01": "2k",
+    "antique_ceramic_vase_01": "1k", "vintage_oil_lamp": "1k", "industrial_wall_sconce": "1k",
+    "Ottoman_01": "1k", "mantel_clock_01": "1k", "vintage_suitcase": "1k", "chess_set": "1k",
+    "tea_set_01": "1k", "wooden_display_shelves_01": "2k", "GothicCabinet_01": "2k",
+    "gothic_coffee_table": "1k", "wine_bottles_01": "1k",
+    "modular_industrial_pipes_01": "2k", "Barrel_01": "1k", "old_military_compressor": "1k",
+    "caged_hanging_light": "1k", "industrial_caged_sconce": "1k"
+  },
+  "Town": {
+    "street_lamp_01": "1k", "fire_hydrant": "1k", "covered_car": "2k", "wooden_picnic_table": "1k",
+    "painted_wooden_bench": "1k", "modular_electricity_poles": "1k", "island_tree_01": "2k",
+    "jacaranda_tree": "2k", "tree_small_02": "1k", "shrub_01": "1k", "shrub_02": "1k",
+    "grass_medium_01": "1k", "grass_medium_02": "1k", "dandelion_01": "1k", "boulder_01": "1k",
+    "garden_gnome": "1k", "planter_box_01": "1k", "metal_trash_can": "1k", "old_tyre": "1k"
+  },
+  "Pool": {
+    "rubber_duck_toy": "1k", "lifebuoy": "1k"
+  },
+  "Items": {
+    "vintage_flashlight": "1k", "medical_box": "1k", "pocket_watch": "1k", "long_life_food": "1k",
+    "vintage_lighter": "1k", "portable_cassette_player": "1k"
+  }
+}

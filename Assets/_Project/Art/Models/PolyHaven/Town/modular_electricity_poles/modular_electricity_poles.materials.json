@@ -1,0 +1,47 @@
+{
+ "id": "modular_electricity_poles",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/modular_electricity_poles",
+ "tris": 120000,
+ "size": [
+  13.120723724365234,
+  7.0,
+  1.957270622253418
+ ],
+ "materials": {
+  "modular_electricity_poles_pieces": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "modular_electricity_poles_pieces_Albedo.jpg",
+   "normal": "modular_electricity_poles_pieces_Normal.jpg",
+   "mask": "modular_electricity_poles_pieces_Mask.png"
+  },
+  "modular_electricity_poles": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "modular_electricity_poles_Albedo.jpg",
+   "normal": "modular_electricity_poles_Normal.jpg",
+   "mask": "modular_electricity_poles_Mask.png"
+  }
+ }
+}

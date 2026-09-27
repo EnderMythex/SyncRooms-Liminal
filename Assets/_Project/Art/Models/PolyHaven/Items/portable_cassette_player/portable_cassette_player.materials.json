@@ -1,0 +1,47 @@
+{
+ "id": "portable_cassette_player",
+ "group": "Items",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/portable_cassette_player",
+ "tris": 13307,
+ "size": [
+  0.17225530743598938,
+  0.13030561804771423,
+  0.03967155143618584
+ ],
+ "materials": {
+  "portable_cassette_player": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "portable_cassette_player_Albedo.jpg",
+   "normal": "portable_cassette_player_Normal.jpg",
+   "mask": "portable_cassette_player_Mask.png"
+  },
+  "portable_cassette_player_glass": {
+   "alphaMode": "BLEND",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "portable_cassette_player_glass_Albedo.jpg",
+   "normal": "portable_cassette_player_glass_Normal.jpg",
+   "mask": "portable_cassette_player_glass_Mask.png"
+  }
+ }
+}

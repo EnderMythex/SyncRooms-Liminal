@@ -1,0 +1,63 @@
+{
+ "id": "chess_set",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/chess_set",
+ "tris": 76920,
+ "size": [
+  0.5532379746437073,
+  0.11235295236110687,
+  0.5532379746437073
+ ],
+ "materials": {
+  "chess_set_pieces_white": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "chess_set_pieces_white_Albedo.jpg",
+   "normal": "chess_set_pieces_white_Normal.jpg",
+   "mask": "chess_set_pieces_white_Mask.png"
+  },
+  "chess_set_board": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "chess_set_board_Albedo.jpg",
+   "normal": "chess_set_board_Normal.jpg",
+   "mask": "chess_set_board_Mask.png"
+  },
+  "chess_set_pieces_black": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "chess_set_pieces_black_Albedo.jpg",
+   "normal": "chess_set_pieces_black_Normal.jpg",
+   "mask": "chess_set_pieces_black_Mask.png"
+  }
+ }
+}

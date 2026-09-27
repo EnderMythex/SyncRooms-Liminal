@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a713371038dab4dada3b11e9926d9e, type: 3}
+  m_Name: lighter
+  m_EditorClassIdentifier: Assembly-CSharp::SyncRooms.Inventory.ItemDefinition
+  id: lighter
+  displayName: Briquet
+  description: "Il ne s'allume plus. Grav\xE9 : \xAB M.E.G. \u2014 Base Alpha \xBB."
+  icon: {fileID: 3447037166458568269, guid: d0b462bc4f21ffc47af2da2daefdcda5, type: 3}
+  worldPrefab: {fileID: 1516990969991770688, guid: 45032bbe9ed58ab4cb226b0100ab5e6b, type: 3}
+  maxStack: 1
+  use: 0
+  amount: 0
+  consumeOnUse: 0
+  noteText: 

@@ -1,0 +1,31 @@
+{
+ "id": "gothic_coffee_table",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/gothic_coffee_table",
+ "tris": 23836,
+ "size": [
+  1.4430902004241943,
+  0.5587729811668396,
+  1.4430902004241943
+ ],
+ "materials": {
+  "gothic_coffee_table": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "gothic_coffee_table_Albedo.jpg",
+   "normal": "gothic_coffee_table_Normal.jpg",
+   "mask": "gothic_coffee_table_Mask.png"
+  }
+ }
+}

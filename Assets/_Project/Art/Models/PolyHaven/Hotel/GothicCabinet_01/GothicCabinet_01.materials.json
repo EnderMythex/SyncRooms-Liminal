@@ -1,0 +1,31 @@
+{
+ "id": "GothicCabinet_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/GothicCabinet_01",
+ "tris": 12170,
+ "size": [
+  1.7191437482833862,
+  2.36090087890625,
+  1.1165388822555542
+ ],
+ "materials": {
+  "GothicCabinet_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "GothicCabinet_01_Albedo.jpg",
+   "normal": "GothicCabinet_01_Normal.jpg",
+   "mask": "GothicCabinet_01_Mask.png"
+  }
+ }
+}

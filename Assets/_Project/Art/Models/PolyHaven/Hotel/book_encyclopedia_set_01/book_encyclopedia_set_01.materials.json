@@ -1,0 +1,47 @@
+{
+ "id": "book_encyclopedia_set_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/book_encyclopedia_set_01",
+ "tris": 67306,
+ "size": [
+  0.5512974262237549,
+  0.23741818964481354,
+  0.16306233406066895
+ ],
+ "materials": {
+  "book_encyclopedia_set_01_cover": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "book_encyclopedia_set_01_cover_Albedo.jpg",
+   "normal": "book_encyclopedia_set_01_cover_Normal.jpg",
+   "mask": "book_encyclopedia_set_01_cover_Mask.png"
+  },
+  "book_encyclopedia_set_01_paper": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "book_encyclopedia_set_01_paper_Albedo.jpg",
+   "normal": "book_encyclopedia_set_01_paper_Normal.jpg",
+   "mask": "book_encyclopedia_set_01_paper_Mask.png"
+  }
+ }
+}

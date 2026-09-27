@@ -1,0 +1,47 @@
+{
+ "id": "potted_plant_02",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/potted_plant_02",
+ "tris": 69806,
+ "size": [
+  0.7011570334434509,
+  0.8411787152290344,
+  0.6573866009712219
+ ],
+ "materials": {
+  "potted_plant_02_pot": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "potted_plant_02_pot_Albedo.jpg",
+   "normal": "potted_plant_02_pot_Normal.jpg",
+   "mask": "potted_plant_02_pot_Mask.png"
+  },
+  "potted_plant_02_leaves": {
+   "alphaMode": "MASK",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "potted_plant_02_leaves_Albedo.jpg",
+   "normal": "potted_plant_02_leaves_Normal.jpg",
+   "mask": "potted_plant_02_leaves_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "Barrel_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/Barrel_01",
+ "tris": 2682,
+ "size": [
+  0.5630351305007935,
+  0.8799999952316284,
+  0.563035249710083
+ ],
+ "materials": {
+  "Barrel_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "Barrel_01_Albedo.jpg",
+   "normal": "Barrel_01_Normal.jpg",
+   "mask": "Barrel_01_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "metal_office_desk",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/metal_office_desk",
+ "tris": 6898,
+ "size": [
+  2.000000476837158,
+  0.7875000238418579,
+  0.9472135305404663
+ ],
+ "materials": {
+  "metal_office_desk": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "metal_office_desk_Albedo.jpg",
+   "normal": "metal_office_desk_Normal.jpg",
+   "mask": "metal_office_desk_Mask.png"
+  }
+ }
+}

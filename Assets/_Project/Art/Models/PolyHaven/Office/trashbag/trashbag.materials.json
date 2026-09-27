@@ -1,0 +1,31 @@
+{
+ "id": "trashbag",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/trashbag",
+ "tris": 4482,
+ "size": [
+  0.5280700922012329,
+  0.5749993920326233,
+  0.462893009185791
+ ],
+ "materials": {
+  "trashbag": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "trashbag_Albedo.jpg",
+   "normal": "trashbag_Normal.jpg",
+   "mask": "trashbag_Mask.png"
+  }
+ }
+}

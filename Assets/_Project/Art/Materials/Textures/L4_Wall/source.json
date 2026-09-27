@@ -1,0 +1,11 @@
+{
+ "source": "acg",
+ "id": "Wallpaper001A",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "height",
+  "normal",
+  "rough"
+ ]
+}

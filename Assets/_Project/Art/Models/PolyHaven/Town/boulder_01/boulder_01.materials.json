@@ -1,0 +1,31 @@
+{
+ "id": "boulder_01",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/boulder_01",
+ "tris": 66122,
+ "size": [
+  1.272135615348816,
+  1.0038301944732666,
+  1.830334186553955
+ ],
+ "materials": {
+  "boulder_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "boulder_01_Albedo.jpg",
+   "normal": "boulder_01_Normal.jpg",
+   "mask": "boulder_01_Mask.png"
+  }
+ }
+}

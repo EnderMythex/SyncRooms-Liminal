@@ -1,0 +1,44 @@
+{
+ "id": "Chandelier_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/Chandelier_01",
+ "tris": 26860,
+ "size": [
+  0.7464556694030762,
+  0.7982707619667053,
+  0.8155495524406433
+ ],
+ "materials": {
+  "basecolor_classic_chandelier_1": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "basecolor_classic_chandelier_1_Albedo.jpg",
+   "normal": "basecolor_classic_chandelier_1_Normal.jpg",
+   "mask": "basecolor_classic_chandelier_1_Mask.png"
+  },
+  "lamps_classic_chandelier_1": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    0.800000011920929,
+    0.800000011920929,
+    0.800000011920929,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 0.3227272629737854
+  }
+ }
+}

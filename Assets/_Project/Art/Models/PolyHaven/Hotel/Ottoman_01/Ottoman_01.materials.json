@@ -1,0 +1,31 @@
+{
+ "id": "Ottoman_01",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/Ottoman_01",
+ "tris": 4240,
+ "size": [
+  0.8845577836036682,
+  0.6243239045143127,
+  0.6211484670639038
+ ],
+ "materials": {
+  "Ottoman_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "Ottoman_01_Albedo.jpg",
+   "normal": "Ottoman_01_Normal.jpg",
+   "mask": "Ottoman_01_Mask.png"
+  }
+ }
+}

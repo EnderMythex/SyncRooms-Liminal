@@ -1,0 +1,576 @@
+{
+ "Ambience/amb_boiler.mp3": {
+  "author": "uair01",
+  "duration": 138.205,
+  "license": "CC-BY 4.0",
+  "title": "LS100752_boiler_room_spinning.WAV",
+  "url": "https://freesound.org/people/uair01/sounds/86610/"
+ },
+ "Ambience/amb_building_tone.mp3": {
+  "author": "simonjeffery13",
+  "duration": 157.88,
+  "license": "CC0",
+  "title": "Empty Office Ambience",
+  "url": "https://freesound.org/people/simonjeffery13/sounds/750799/"
+ },
+ "Ambience/amb_distant_thud_1.mp3": {
+  "author": "NenadSimic",
+  "duration": 5.14286,
+  "license": "CC0",
+  "title": "Muffled Distant Explosion",
+  "url": "https://freesound.org/people/NenadSimic/sounds/149966/"
+ },
+ "Ambience/amb_distant_thud_2.mp3": {
+  "author": "Osiruswaltz",
+  "duration": 2.39167,
+  "license": "CC0",
+  "title": "Low Pitch Knocking 1.wav",
+  "url": "https://freesound.org/people/Osiruswaltz/sounds/457742/"
+ },
+ "Ambience/amb_drip_1.mp3": {
+  "author": "MinigunFiend",
+  "duration": 4.15354,
+  "license": "CC0",
+  "title": "deep-tapping-or-dripping-01.wav",
+  "url": "https://freesound.org/people/MinigunFiend/sounds/175215/"
+ },
+ "Ambience/amb_drip_2.mp3": {
+  "author": "Blankened",
+  "duration": 2.14204,
+  "license": "CC0",
+  "title": "WaterDropletEchoed.wav",
+  "url": "https://freesound.org/people/Blankened/sounds/612133/"
+ },
+ "Ambience/amb_drip_3.mp3": {
+  "author": "IPaddeh",
+  "duration": 2.97675,
+  "license": "CC0",
+  "title": "Water_Dripping_Loop.wav",
+  "url": "https://freesound.org/people/IPaddeh/sounds/422873/"
+ },
+ "Ambience/amb_fluorescent_hum.mp3": {
+  "author": "LudwigMueller",
+  "duration": 30.9687,
+  "license": "CC0",
+  "title": "FXLM neon lights flicker bathroom.wav",
+  "url": "https://freesound.org/people/LudwigMueller/sounds/202612/"
+ },
+ "Ambience/amb_foghorn.mp3": {
+  "author": "kathol",
+  "duration": 4.73333,
+  "license": "CC0",
+  "title": "fog horn sample(dry).wav",
+  "url": "https://freesound.org/people/kathol/sounds/37914/"
+ },
+ "Ambience/amb_fountain.mp3": {
+  "author": "Legnalegna55",
+  "duration": 149.474,
+  "license": "CC0",
+  "title": "Water Fountain Sound",
+  "url": "https://freesound.org/people/Legnalegna55/sounds/554789/"
+ },
+ "Ambience/amb_garage.mp3": {
+  "author": "gchase",
+  "duration": 111.7,
+  "license": "CC0",
+  "title": "Room_Tone_Ambience_Large_Parking Garage_Car_Passbys.wav",
+  "url": "https://freesound.org/people/gchase/sounds/144043/"
+ },
+ "Ambience/amb_meadow.mp3": {
+  "author": "baryy",
+  "duration": 91.6667,
+  "license": "CC0",
+  "title": "Summer Meadow",
+  "url": "https://freesound.org/people/baryy/sounds/409143/"
+ },
+ "Ambience/amb_night.mp3": {
+  "author": "Defelozedd94",
+  "duration": 222.58,
+  "license": "CC0",
+  "title": "Crickets At Night - Raw sound",
+  "url": "https://freesound.org/people/Defelozedd94/sounds/522299/"
+ },
+ "Ambience/amb_ocean.mp3": {
+  "author": "univ_lyon3",
+  "duration": 20.1232,
+  "license": "CC0",
+  "title": "AGUILLON_Anastasia_2018_2019_wavesinsouthoffrance.wav",
+  "url": "https://freesound.org/people/univ_lyon3/sounds/443016/"
+ },
+ "Ambience/amb_office_hvac.mp3": {
+  "author": "Soup_UnderScore",
+  "duration": 128.0,
+  "license": "CC0",
+  "title": "Empty Office Space Room Tone with Aircon SFX",
+  "url": "https://freesound.org/people/Soup_UnderScore/sounds/708021/"
+ },
+ "Ambience/amb_pool.mp3": {
+  "author": "xkeril",
+  "duration": 238.0,
+  "license": "CC0",
+  "title": "Entrance thermal baths 02",
+  "url": "https://freesound.org/people/xkeril/sounds/677263/"
+ },
+ "Ambience/amb_steam_1.mp3": {
+  "author": "sniperous",
+  "duration": 7.8,
+  "license": "CC0",
+  "title": "Steam.wav",
+  "url": "https://freesound.org/people/sniperous/sounds/365071/"
+ },
+ "Ambience/amb_steam_2.mp3": {
+  "author": "wubitog",
+  "duration": 1.47447,
+  "license": "CC0",
+  "title": "Steam/hiss",
+  "url": "https://freesound.org/people/wubitog/sounds/234782/"
+ },
+ "Ambience/amb_water_lapping.mp3": {
+  "author": "JoneagleX",
+  "duration": 14.9562,
+  "license": "CC0",
+  "title": "pool-lap.mp3",
+  "url": "https://freesound.org/people/JoneagleX/sounds/119001/"
+ },
+ "Ambience/amb_whispers_1.mp3": {
+  "author": "dimbark1",
+  "duration": 18.7081,
+  "license": "CC0",
+  "title": "Ghostly Whispers",
+  "url": "https://freesound.org/people/dimbark1/sounds/316797/"
+ },
+ "Ambience/amb_whispers_2.mp3": {
+  "author": "geoneo0",
+  "duration": 19.3846,
+  "license": "CC0",
+  "title": "Four_Voices_Whispering_2.wav",
+  "url": "https://freesound.org/people/geoneo0/sounds/193811/"
+ },
+ "Ambience/amb_wind.mp3": {
+  "author": "szelestamas",
+  "duration": 114.485,
+  "license": "CC0",
+  "title": "Field ambience 01.wav",
+  "url": "https://freesound.org/people/szelestamas/sounds/620099/"
+ },
+ "Footsteps/fs_carpet_3.mp3": {
+  "author": "kevinklang",
+  "duration": 0.67775,
+  "license": "CC0",
+  "title": "SFX_footstep_walk_carpet_dry_0_v4",
+  "url": "https://freesound.org/people/kevinklang/sounds/843638/"
+ },
+ "Footsteps/fs_carpet_4.mp3": {
+  "author": "scholzi982",
+  "duration": 1.0,
+  "license": "CC-BY 4.0",
+  "title": "Footstep_Carpet_01.wav",
+  "url": "https://freesound.org/people/scholzi982/sounds/566180/"
+ },
+ "Footsteps/fs_concrete_1.mp3": {
+  "author": "Yoyodaman234",
+  "duration": 0.490204,
+  "license": "CC0",
+  "title": "concrete footstep 2",
+  "url": "https://freesound.org/people/Yoyodaman234/sounds/166508/"
+ },
+ "Footsteps/fs_concrete_2.mp3": {
+  "author": "gristi",
+  "duration": 1.12369,
+  "license": "CC0",
+  "title": "snd_footsteps_concrete.wav",
+  "url": "https://freesound.org/people/gristi/sounds/562192/"
+ },
+ "Footsteps/fs_concrete_3.mp3": {
+  "author": "matth3wc04",
+  "duration": 0.400583,
+  "license": "CC0",
+  "title": "Concrete Footstep 2.mp3",
+  "url": "https://freesound.org/people/matth3wc04/sounds/690006/"
+ },
+ "Footsteps/fs_concrete_4.mp3": {
+  "author": "BlondPanda",
+  "duration": 0.560125,
+  "license": "CC0",
+  "title": "Cloth_And_Shoes_On_Concrete_22",
+  "url": "https://freesound.org/people/BlondPanda/sounds/778502/"
+ },
+ "Footsteps/fs_grass_1.mp3": {
+  "author": "OwlStorm",
+  "duration": 0.501224,
+  "license": "CC0",
+  "title": "Grassy Footstep 4",
+  "url": "https://freesound.org/people/OwlStorm/sounds/151235/"
+ },
+ "Footsteps/fs_grass_2.mp3": {
+  "author": "morganpurkis",
+  "duration": 0.596083,
+  "license": "CC0",
+  "title": "Rustling Grass 2.wav",
+  "url": "https://freesound.org/people/morganpurkis/sounds/396013/"
+ },
+ "Footsteps/fs_grass_3.mp3": {
+  "author": "morganpurkis",
+  "duration": 0.38,
+  "license": "CC0",
+  "title": "Rustling Grass 4.wav",
+  "url": "https://freesound.org/people/morganpurkis/sounds/396016/"
+ },
+ "Footsteps/fs_grass_4.mp3": {
+  "author": "morganpurkis",
+  "duration": 0.704354,
+  "license": "CC0",
+  "title": "Rustling Grass 1.wav",
+  "url": "https://freesound.org/people/morganpurkis/sounds/396014/"
+ },
+ "Footsteps/fs_tile_1.mp3": {
+  "author": "carrigsound",
+  "duration": 0.487708,
+  "license": "CC0",
+  "title": "Step 9.wav",
+  "url": "https://freesound.org/people/carrigsound/sounds/32646/"
+ },
+ "Footsteps/fs_tile_2.mp3": {
+  "author": "d00121058",
+  "duration": 0.25,
+  "license": "CC0",
+  "title": "FX_007_footstep_tile_l.wav",
+  "url": "https://freesound.org/people/d00121058/sounds/390762/"
+ },
+ "Footsteps/fs_tile_4.mp3": {
+  "author": "Alpaca_Audio",
+  "duration": 1.11,
+  "license": "CC0",
+  "title": "footsteps, tile, shufle",
+  "url": "https://freesound.org/people/Alpaca_Audio/sounds/804982/"
+ },
+ "Footsteps/fs_water_1.mp3": {
+  "author": "samuelcable",
+  "duration": 1.00279,
+  "license": "CC0",
+  "title": "Slosh A.wav",
+  "url": "https://freesound.org/people/samuelcable/sounds/393494/"
+ },
+ "Footsteps/fs_water_2.mp3": {
+  "author": "RomanKolachnik",
+  "duration": 0.763458,
+  "license": "CC0",
+  "title": "Footsteps_05.wav",
+  "url": "https://freesound.org/people/RomanKolachnik/sounds/672205/"
+ },
+ "Footsteps/fs_water_3.mp3": {
+  "author": "coffeemakessounds",
+  "duration": 0.359909,
+  "license": "CC0",
+  "title": "step_water",
+  "url": "https://freesound.org/people/coffeemakessounds/sounds/849638/"
+ },
+ "Footsteps/fs_water_4.mp3": {
+  "author": "Joao_Janz",
+  "duration": 0.526771,
+  "license": "CC0",
+  "title": "Small Water Splash 1_1",
+  "url": "https://freesound.org/people/Joao_Janz/sounds/478705/"
+ },
+ "Footsteps/fs_wood_1.mp3": {
+  "author": "Rudmer_Rotteveel",
+  "duration": 1.18177,
+  "license": "CC0",
+  "title": "Wood Creak Single V3",
+  "url": "https://freesound.org/people/Rudmer_Rotteveel/sounds/502511/"
+ },
+ "Footsteps/fs_wood_2.mp3": {
+  "author": "Rudmer_Rotteveel",
+  "duration": 0.986508,
+  "license": "CC0",
+  "title": "Wood Creak Single V1",
+  "url": "https://freesound.org/people/Rudmer_Rotteveel/sounds/502505/"
+ },
+ "Footsteps/fs_wood_3.mp3": {
+  "author": "Rudmer_Rotteveel",
+  "duration": 0.909773,
+  "license": "CC0",
+  "title": "Wood Creak Single V2",
+  "url": "https://freesound.org/people/Rudmer_Rotteveel/sounds/502504/"
+ },
+ "Footsteps/fs_wood_4.mp3": {
+  "author": "Notarget",
+  "duration": 0.362086,
+  "license": "CC0",
+  "title": "Wood step Sample 4",
+  "url": "https://freesound.org/people/Notarget/sounds/434759/"
+ },
+ "Monsters/hound_growl_1.mp3": {
+  "author": "yatoimtop",
+  "duration": 2.64707,
+  "license": "CC0",
+  "title": "MonsterGrowl.mp3",
+  "url": "https://freesound.org/people/yatoimtop/sounds/171178/"
+ },
+ "Monsters/hound_growl_2.mp3": {
+  "author": "StormKat2035",
+  "duration": 4.0,
+  "license": "CC0",
+  "title": "Monster Growl",
+  "url": "https://freesound.org/people/StormKat2035/sounds/235177/"
+ },
+ "Monsters/hound_scream_1.mp3": {
+  "author": "scorpion67890",
+  "duration": 1.51544,
+  "license": "CC0",
+  "title": "Mutant Scream",
+  "url": "https://freesound.org/people/scorpion67890/sounds/396797/"
+ },
+ "Monsters/hound_scream_2.mp3": {
+  "author": "audione",
+  "duration": 3.53263,
+  "license": "CC0",
+  "title": "Alien_Monster_Scream.wav",
+  "url": "https://freesound.org/people/audione/sounds/161404/"
+ },
+ "Monsters/leviathan_call_1.mp3": {
+  "author": "davidou",
+  "duration": 5.59968,
+  "license": "CC0",
+  "title": "Baleines.wav",
+  "url": "https://freesound.org/people/davidou/sounds/88449/"
+ },
+ "Monsters/leviathan_call_2.mp3": {
+  "author": "muri_kuri",
+  "duration": 10.25,
+  "license": "CC0",
+  "title": "whale song",
+  "url": "https://freesound.org/people/muri_kuri/sounds/684188/"
+ },
+ "Monsters/moth_flutter_1.mp3": {
+  "author": "_stubb",
+  "duration": 0.933333,
+  "license": "CC0",
+  "title": "Wing Flap 1.wav",
+  "url": "https://freesound.org/people/_stubb/sounds/389634/"
+ },
+ "Monsters/moth_flutter_2.mp3": {
+  "author": "tommy_mooney",
+  "duration": 2.15385,
+  "license": "CC0",
+  "title": "wings flapping.wav",
+  "url": "https://freesound.org/people/tommy_mooney/sounds/386706/"
+ },
+ "Monsters/slime_squelch_1.mp3": {
+  "author": "Archos",
+  "duration": 0.854125,
+  "license": "CC0",
+  "title": "Slime 27.wav",
+  "url": "https://freesound.org/people/Archos/sounds/433840/"
+ },
+ "Monsters/slime_squelch_2.mp3": {
+  "author": "MrFossy",
+  "duration": 0.25,
+  "license": "CC0",
+  "title": "SFX_SQUELCH_slayer_214.wav",
+  "url": "https://freesound.org/people/MrFossy/sounds/589835/"
+ },
+ "Monsters/slime_squelch_3.mp3": {
+  "author": "DrMinky",
+  "duration": 0.611969,
+  "license": "CC-BY 4.0",
+  "title": "Slime Death (1)",
+  "url": "https://freesound.org/people/DrMinky/sounds/167074/"
+ },
+ "Monsters/smiler_giggle_1.mp3": {
+  "author": "RaspberryTickle",
+  "duration": 1.52503,
+  "license": "CC0",
+  "title": "child giggle",
+  "url": "https://freesound.org/people/RaspberryTickle/sounds/203230/"
+ },
+ "Monsters/smiler_giggle_2.mp3": {
+  "author": "BlueSiren",
+  "duration": 2.92571,
+  "license": "CC0",
+  "title": "Girl Chuckle.wav",
+  "url": "https://freesound.org/people/BlueSiren/sounds/377742/"
+ },
+ "Monsters/toon_laugh_1.mp3": {
+  "author": "szegvari",
+  "duration": 3.84,
+  "license": "CC0",
+  "title": "Laugh Creaures Laughter Fantasy Mastered 200614_0003_01.wav",
+  "url": "https://freesound.org/people/szegvari/sounds/522114/"
+ },
+ "Music/music_calliope_1.mp3": {
+  "author": "DRFX",
+  "duration": 16.0533,
+  "license": "CC0",
+  "title": "Music Box Melody 1",
+  "url": "https://freesound.org/people/DRFX/sounds/338986/"
+ },
+ "Music/music_calliope_2.mp3": {
+  "author": "sonically_sound",
+  "duration": 19.45,
+  "license": "CC0",
+  "title": "Music Box (G, 4/4, 60 BPM)",
+  "url": "https://freesound.org/people/sonically_sound/sounds/613178/"
+ },
+ "Music/music_gramophone_1.mp3": {
+  "author": "Walter_Odington",
+  "duration": 175.392,
+  "license": "CC0",
+  "title": "78 rpm.aif",
+  "url": "https://freesound.org/people/Walter_Odington/sounds/18627/"
+ },
+ "Music/music_gramophone_2.mp3": {
+  "author": "ProductionNow",
+  "duration": 58.0405,
+  "license": "CC0",
+  "title": "1900s Edison phonograph playing music.wav",
+  "url": "https://freesound.org/people/ProductionNow/sounds/443327/"
+ },
+ "SFX/sfx_bag.mp3": {
+  "author": "Rudmer_Rotteveel",
+  "duration": 1.36825,
+  "license": "CC0",
+  "title": "Zipper Weak Pull 01",
+  "url": "https://freesound.org/people/Rudmer_Rotteveel/sounds/536238/"
+ },
+ "SFX/sfx_breath.mp3": {
+  "author": "Under7dude",
+  "duration": 4.27,
+  "license": "CC0",
+  "title": "Heavy Breathing",
+  "url": "https://freesound.org/people/Under7dude/sounds/163383/"
+ },
+ "SFX/sfx_door_locked.mp3": {
+  "author": "BenjaminNelan",
+  "duration": 0.616281,
+  "license": "CC0",
+  "title": "Door Locked",
+  "url": "https://freesound.org/people/BenjaminNelan/sounds/321087/"
+ },
+ "SFX/sfx_door_open.mp3": {
+  "author": "Aiyumi",
+  "duration": 1.07035,
+  "license": "CC0",
+  "title": "creaking-door-open01.flac",
+  "url": "https://freesound.org/people/Aiyumi/sounds/244425/"
+ },
+ "SFX/sfx_drink.mp3": {
+  "author": "OwlStorm",
+  "duration": 2.54259,
+  "license": "CC0",
+  "title": "Drink Sip and Swallow",
+  "url": "https://freesound.org/people/OwlStorm/sounds/320139/"
+ },
+ "SFX/sfx_eat.mp3": {
+  "author": "Borgory",
+  "duration": 4.72,
+  "license": "CC0",
+  "title": "Chewing Crunch Cornflakes Knuspern Schnurpsen Eating Essen Munch",
+  "url": "https://freesound.org/people/Borgory/sounds/548367/"
+ },
+ "SFX/sfx_elevator_ding.mp3": {
+  "author": "NachtmahrTV",
+  "duration": 3.30812,
+  "license": "CC0",
+  "title": "Elevator Bell",
+  "url": "https://freesound.org/people/NachtmahrTV/sounds/556700/"
+ },
+ "SFX/sfx_elevator_move.mp3": {
+  "author": "GilPS",
+  "duration": 6.61184,
+  "license": "CC0",
+  "title": "Elevator_opening",
+  "url": "https://freesound.org/people/GilPS/sounds/241763/"
+ },
+ "SFX/sfx_flashlight.mp3": {
+  "author": "baidonovan",
+  "duration": 0.561667,
+  "license": "CC0",
+  "title": "Flashlight Clicking On.wav",
+  "url": "https://freesound.org/people/baidonovan/sounds/187335/"
+ },
+ "SFX/sfx_heartbeat.mp3": {
+  "author": "fuzzpapi",
+  "duration": 7.77755,
+  "license": "CC0",
+  "title": "heartbeats.wav",
+  "url": "https://freesound.org/people/fuzzpapi/sounds/147338/"
+ },
+ "SFX/sfx_hurt_1.mp3": {
+  "author": "vmgraw",
+  "duration": 0.833333,
+  "license": "CC0",
+  "title": "GRUNT 2.wav",
+  "url": "https://freesound.org/people/vmgraw/sounds/257709/"
+ },
+ "SFX/sfx_hurt_2.mp3": {
+  "author": "MrFossy",
+  "duration": 0.319637,
+  "license": "CC0",
+  "title": "Voice_AdultMale_PainGrunts_09.wav",
+  "url": "https://freesound.org/people/MrFossy/sounds/547209/"
+ },
+ "SFX/sfx_light_flicker.mp3": {
+  "author": "TemperMode",
+  "duration": 5.84387,
+  "license": "CC0",
+  "title": "fluorescent light flickering 1.wav",
+  "url": "https://freesound.org/people/TemperMode/sounds/484157/"
+ },
+ "SFX/sfx_paper_1.mp3": {
+  "author": "batchku",
+  "duration": 0.511655,
+  "license": "CC0",
+  "title": "rustle.paper_Tear_9.aif",
+  "url": "https://freesound.org/people/batchku/sounds/10428/"
+ },
+ "SFX/sfx_paper_2.mp3": {
+  "author": "BenjaminNelan",
+  "duration": 1.12964,
+  "license": "CC0",
+  "title": "Paper Rustle",
+  "url": "https://freesound.org/people/BenjaminNelan/sounds/353125/"
+ },
+ "SFX/sfx_pickup_1.mp3": {
+  "author": "niamhd00145229",
+  "duration": 1.41018,
+  "license": "CC0",
+  "title": "inspect item.wav",
+  "url": "https://freesound.org/people/niamhd00145229/sounds/422709/"
+ },
+ "SFX/sfx_siren.mp3": {
+  "author": "torn.rugged.audio.35",
+  "duration": 7.02667,
+  "license": "CC0",
+  "title": "air_raid.R.wav",
+  "url": "https://freesound.org/people/torn.rugged.audio.35/sounds/45933/"
+ },
+ "SFX/sfx_splash_dive.mp3": {
+  "author": "qubodup",
+  "duration": 2.17225,
+  "license": "CC0",
+  "title": "Big Water Splash",
+  "url": "https://freesound.org/people/qubodup/sounds/442773/"
+ },
+ "SFX/sfx_ui_click.mp3": {
+  "author": "suntemple",
+  "duration": 0.15873,
+  "license": "CC0",
+  "title": "SFX UI Button Click",
+  "url": "https://freesound.org/people/suntemple/sounds/253168/"
+ },
+ "SFX/sfx_underwater.mp3": {
+  "author": "Fission9",
+  "duration": 46.8646,
+  "license": "CC0",
+  "title": "Underwater Ambience",
+  "url": "https://freesound.org/people/Fission9/sounds/504641/"
+ },
+ "SFX/sfx_unlock.mp3": {
+  "author": "wlabarron",
+  "duration": 0.691438,
+  "license": "CC0",
+  "title": "Hotel room door unlocking",
+  "url": "https://freesound.org/people/wlabarron/sounds/494128/"
+ }
+}

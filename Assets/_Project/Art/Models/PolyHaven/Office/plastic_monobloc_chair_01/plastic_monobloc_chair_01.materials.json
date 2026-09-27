@@ -1,0 +1,31 @@
+{
+ "id": "plastic_monobloc_chair_01",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/plastic_monobloc_chair_01",
+ "tris": 3356,
+ "size": [
+  0.6418611407279968,
+  0.8798412084579468,
+  0.6275919079780579
+ ],
+ "materials": {
+  "plastic_monobloc_chair_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "plastic_monobloc_chair_01_Albedo.jpg",
+   "normal": "plastic_monobloc_chair_01_Normal.jpg",
+   "mask": "plastic_monobloc_chair_01_Mask.png"
+  }
+ }
+}

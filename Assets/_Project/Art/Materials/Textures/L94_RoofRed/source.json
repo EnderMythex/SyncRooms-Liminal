@@ -1,0 +1,13 @@
+{
+ "source": "acg",
+ "id": "RoofingTiles013A",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "normal",
+  "opacity",
+  "rough"
+ ]
+}

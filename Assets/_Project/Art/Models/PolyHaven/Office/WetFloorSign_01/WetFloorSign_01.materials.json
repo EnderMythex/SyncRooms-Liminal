@@ -1,0 +1,31 @@
+{
+ "id": "WetFloorSign_01",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/WetFloorSign_01",
+ "tris": 228,
+ "size": [
+  0.3000548481941223,
+  0.6295440196990967,
+  0.3585093021392822
+ ],
+ "materials": {
+  "WetFloorSign_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "WetFloorSign_01_Albedo.jpg",
+   "normal": "WetFloorSign_01_Normal.jpg",
+   "mask": "WetFloorSign_01_Mask.png"
+  }
+ }
+}

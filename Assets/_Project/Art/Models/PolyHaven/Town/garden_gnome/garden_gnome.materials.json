@@ -1,0 +1,31 @@
+{
+ "id": "garden_gnome",
+ "group": "Town",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/garden_gnome",
+ "tris": 28858,
+ "size": [
+  0.2579185962677002,
+  0.5990858674049377,
+  0.20971597731113434
+ ],
+ "materials": {
+  "garden_gnome_01": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "garden_gnome_01_Albedo.jpg",
+   "normal": "garden_gnome_01_Normal.jpg",
+   "mask": "garden_gnome_01_Mask.png"
+  }
+ }
+}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a713371038dab4dada3b11e9926d9e, type: 3}
+  m_Name: battery
+  m_EditorClassIdentifier: Assembly-CSharp::SyncRooms.Inventory.ItemDefinition
+  id: battery
+  displayName: Pile
+  description: Pile type D. Recharge la lampe torche de 50 %.
+  icon: {fileID: 5856981904466133357, guid: 9cb6723e0a028704bb3899ef7b190cfb, type: 3}
+  worldPrefab: {fileID: 3403300162188784576, guid: da1f6156f3e202a428d8e59ecdad3c2f, type: 3}
+  maxStack: 6
+  use: 4
+  amount: 50
+  consumeOnUse: 1
+  noteText: 

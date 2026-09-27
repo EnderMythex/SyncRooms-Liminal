@@ -1,0 +1,47 @@
+{
+ "id": "modern_arm_chair_01",
+ "group": "Office",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/modern_arm_chair_01",
+ "tris": 8916,
+ "size": [
+  0.8203444480895996,
+  1.0228520631790161,
+  0.98656165599823
+ ],
+ "materials": {
+  "modern_arm_chair_01_legs": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "modern_arm_chair_01_legs_Albedo.jpg",
+   "normal": "modern_arm_chair_01_legs_Normal.jpg",
+   "mask": "modern_arm_chair_01_legs_Mask.png"
+  },
+  "modern_arm_chair_01_pillow": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "modern_arm_chair_01_pillow_Albedo.jpg",
+   "normal": "modern_arm_chair_01_pillow_Normal.jpg",
+   "mask": "modern_arm_chair_01_pillow_Mask.png"
+  }
+ }
+}

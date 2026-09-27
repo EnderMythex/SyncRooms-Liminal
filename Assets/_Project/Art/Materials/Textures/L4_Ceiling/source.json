@@ -1,0 +1,13 @@
+{
+ "source": "acg",
+ "id": "OfficeCeiling005",
+ "license": "CC0",
+ "maps": [
+  "albedo",
+  "ao",
+  "height",
+  "metal",
+  "normal",
+  "rough"
+ ]
+}

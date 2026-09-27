@@ -1,0 +1,46 @@
+{
+ "id": "industrial_wall_sconce",
+ "group": "Hotel",
+ "source": "Poly Haven",
+ "license": "CC0",
+ "url": "https://polyhaven.com/a/industrial_wall_sconce",
+ "tris": 9826,
+ "size": [
+  0.1503480076789856,
+  0.3417818546295166,
+  0.25157588720321655
+ ],
+ "materials": {
+  "industrial_wall_sconce": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 1.0,
+   "roughnessFactor": 1.0,
+   "albedo": "industrial_wall_sconce_Albedo.jpg",
+   "normal": "industrial_wall_sconce_Normal.jpg",
+   "mask": "industrial_wall_sconce_Mask.png"
+  },
+  "industrial_wall_sconce_bulb": {
+   "alphaMode": "OPAQUE",
+   "alphaCutoff": 0.5,
+   "doubleSided": true,
+   "baseColorFactor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallicFactor": 0,
+   "roughnessFactor": 1.0,
+   "albedo": "industrial_wall_sconce_bulb_Albedo.jpg",
+   "mask": "industrial_wall_sconce_bulb_Mask.png"
+  }
+ }
+}

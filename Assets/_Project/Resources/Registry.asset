@@ -1,0 +1,524 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46d0b2a0432ddab4e897b136c564b246, type: 3}
+  m_Name: Registry
+  m_EditorClassIdentifier: Assembly-CSharp::SyncRooms.Gen.Registry
+  materials:
+  - name: BlackOut
+    mat: {fileID: 2100000, guid: e86de9a0fb315b24d8a2fd0a1d141aa0, type: 2}
+  - name: Brass
+    mat: {fileID: 2100000, guid: ac0c7730216c68c49b3c57f15d20a9e7, type: 2}
+  - name: Com_Chrome
+    mat: {fileID: 2100000, guid: 4946cd4f88a75974bbcd376437978476, type: 2}
+  - name: Com_Paper
+    mat: {fileID: 2100000, guid: 42caa5500bda48840b3ebd4c3f8e6e2e, type: 2}
+  - name: DarkMetal
+    mat: {fileID: 2100000, guid: 7a3c705a0cdfada46b5f407ef1824916, type: 2}
+  - name: ElevatorSteel
+    mat: {fileID: 2100000, guid: 91b18c286780d6e40ab5679fd4198e7e, type: 2}
+  - name: EmissiveExit
+    mat: {fileID: 2100000, guid: 55272c6b99953cc40ae0875a4ae4aba7, type: 2}
+  - name: EmissivePanel
+    mat: {fileID: 2100000, guid: 856eb5f605079b045be08391f5cf7b84, type: 2}
+  - name: EmissiveRed
+    mat: {fileID: 2100000, guid: 6e2c90fcae47b58438854e999409bb2d, type: 2}
+  - name: EmissiveSky
+    mat: {fileID: 2100000, guid: af102cfbd56eb9248aad528420b0ef1b, type: 2}
+  - name: EmissiveWarm
+    mat: {fileID: 2100000, guid: f7b68174fe89fc24c9a238041b202866, type: 2}
+  - name: Glass
+    mat: {fileID: 2100000, guid: e280a68381677524690703451b39aaa5, type: 2}
+  - name: GlassFrosted
+    mat: {fileID: 2100000, guid: cd0273afeba21624294349faed847e06, type: 2}
+  - name: Jacket
+    mat: {fileID: 2100000, guid: 42b0a310d98b4a54c937f949b70ab789, type: 2}
+  - name: Jeans
+    mat: {fileID: 2100000, guid: 24246a235f73c264fafac66fe2cafcae, type: 2}
+  - name: L37_TileLarge
+    mat: {fileID: 2100000, guid: 824faeec7beff55458a9e50b5ebf7435, type: 2}
+  - name: L37_TileSmall
+    mat: {fileID: 2100000, guid: 117eb9330e3a6604dbb989c90488a14e, type: 2}
+  - name: L4_Carpet
+    mat: {fileID: 2100000, guid: eeb1ebb298cefbf4696d15ccf136d64e, type: 2}
+  - name: L4_Ceiling
+    mat: {fileID: 2100000, guid: 149676336a0aedc47bc626de92f4b3c7, type: 2}
+  - name: L4_Concrete
+    mat: {fileID: 2100000, guid: c0d39040e6cd7e146ae24596b50a2218, type: 2}
+  - name: L4_Door
+    mat: {fileID: 2100000, guid: 62b2bf32cb7575d4f8c04e2fcc3de276, type: 2}
+  - name: L4_Metal
+    mat: {fileID: 2100000, guid: c524f8e287e6894458e4f9aea7ed38a3, type: 2}
+  - name: L4_Tile
+    mat: {fileID: 2100000, guid: a236acfe9326ac74dae39d26e1e43238, type: 2}
+  - name: L4_Wall
+    mat: {fileID: 2100000, guid: 653edda00bd2f5742b501ff29d24206b, type: 2}
+  - name: L5_Brick
+    mat: {fileID: 2100000, guid: a7bd059e6df10ae498b3c05f490d62ee, type: 2}
+  - name: L5_Damask
+    mat: {fileID: 2100000, guid: 0f08e088bcfbbd848bba459440b284f6, type: 2}
+  - name: L5_Gold
+    mat: {fileID: 2100000, guid: 3a167e5abbd2e8848bc508462c003a76, type: 2}
+  - name: L5_HotelCarpet
+    mat: {fileID: 2100000, guid: 2a0043ba74702b8479bda654f25f9f75, type: 2}
+  - name: L5_Marble
+    mat: {fileID: 2100000, guid: 9bcd7c71dd5a09f4c99ec3d9cb717b41, type: 2}
+  - name: L5_OldConcrete
+    mat: {fileID: 2100000, guid: 9ada9bf94b7577f45b07ad4eab2f8759, type: 2}
+  - name: L5_Parquet
+    mat: {fileID: 2100000, guid: b32c6c4a1a262a947b81517d60487e38, type: 2}
+  - name: L5_Plaster
+    mat: {fileID: 2100000, guid: 0a934a531ed12e14da52e017481b8c16, type: 2}
+  - name: L5_Rust
+    mat: {fileID: 2100000, guid: baaa8d14ed3df5a448971fc563aea3d6, type: 2}
+  - name: L5_Velvet
+    mat: {fileID: 2100000, guid: f9f99cb2c64b86b4f8083807f1b321d2, type: 2}
+  - name: L5_Walnut
+    mat: {fileID: 2100000, guid: ab58d9ac9426e8646b0061cbeab72fe6, type: 2}
+  - name: L5_WoodPanel
+    mat: {fileID: 2100000, guid: 400db114c77b3ac40ae8c7bf6d831b6e, type: 2}
+  - name: L94_Asphalt
+    mat: {fileID: 2100000, guid: cd8c36a88daaa444ca829b74a172a355, type: 2}
+  - name: L94_Brick
+    mat: {fileID: 2100000, guid: 3fb8a0519cd0acf46be6b61a9296a035, type: 2}
+  - name: L94_Grass
+    mat: {fileID: 2100000, guid: c428e2ad63f2c084bb7a2074298665db, type: 2}
+  - name: L94_PaintedMetal
+    mat: {fileID: 2100000, guid: d41b1df8e6ab933499bd2e0b0e49f6a4, type: 2}
+  - name: L94_Path
+    mat: {fileID: 2100000, guid: f182f90429a72b044875ba6373e9de33, type: 2}
+  - name: L94_RoofGrey
+    mat: {fileID: 2100000, guid: a71884ef5128ebb46bde6bbf72bdbc2e, type: 2}
+  - name: L94_RoofRed
+    mat: {fileID: 2100000, guid: 48f495ea4af8fbb4e9196c12a776a151, type: 2}
+  - name: L94_Sidewalk
+    mat: {fileID: 2100000, guid: 4b802fb92c2f0384883a174e67302a57, type: 2}
+  - name: L94_SidingBlue
+    mat: {fileID: 2100000, guid: 6ad72712698331d4681d3911073e9f48, type: 2}
+  - name: L94_SidingGreen
+    mat: {fileID: 2100000, guid: 06e0f7d7fcb3816419e39c01efd0468b, type: 2}
+  - name: L94_SidingWhite
+    mat: {fileID: 2100000, guid: 8cc3d64514f5be743a14c6588c8a5570, type: 2}
+  - name: L94_SidingYellow
+    mat: {fileID: 2100000, guid: d52ea92aeaaa17c449e4d2da1334f9ee, type: 2}
+  - name: L94_Stone
+    mat: {fileID: 2100000, guid: b47148aead0edc846bbd23db42570fd5, type: 2}
+  - name: L94_Wood
+    mat: {fileID: 2100000, guid: 4763172708c0e5043931f9531d16387f, type: 2}
+  - name: LeviathanSkin
+    mat: {fileID: 2100000, guid: 2cea31ebbf447814fbb75bc61158893d, type: 2}
+  - name: Liquid
+    mat: {fileID: 2100000, guid: efe82b3cab24ddf4b88a9fd099ba6c76, type: 2}
+  - name: Mirror
+    mat: {fileID: 2100000, guid: 921ecc40614df6f478a4c361ba7e6ff5, type: 2}
+  - name: MonsterEye
+    mat: {fileID: 2100000, guid: 91a59390bb7701144a7d5e6e52cba90b, type: 2}
+  - name: MonsterSkin
+    mat: {fileID: 2100000, guid: 34b784d4f7fbc064797868e073c819f2, type: 2}
+  - name: MothBody
+    mat: {fileID: 2100000, guid: e08ba11d800707844b0a3110ff7cdb33, type: 2}
+  - name: MothWing
+    mat: {fileID: 2100000, guid: 6821b69491082ef4e812c172a506260c, type: 2}
+  - name: PaintBlack
+    mat: {fileID: 2100000, guid: 7a5e66bea8eedaa43897e9b617a76092, type: 2}
+  - name: PaintCream
+    mat: {fileID: 2100000, guid: cb56542ac0f8dab40a64f3b26873af5e, type: 2}
+  - name: PaintGreen
+    mat: {fileID: 2100000, guid: dbbd8817107b8f4498d855e89f8a6519, type: 2}
+  - name: PaintLine
+    mat: {fileID: 2100000, guid: f7b4901f78898c24481dfa206906f867, type: 2}
+  - name: PaintOffWhite
+    mat: {fileID: 2100000, guid: a867a55648795384cb333c71ef20d1d8, type: 2}
+  - name: PaintRed
+    mat: {fileID: 2100000, guid: 9bc8a1ee0351cbe4d91a70f626902998, type: 2}
+  - name: PaintYellow
+    mat: {fileID: 2100000, guid: e08e2a01cbc69cf4bb0d789bb147e2f3, type: 2}
+  - name: PlasticBeige
+    mat: {fileID: 2100000, guid: 6a1cd9dd382c188489a88ae0d6791288, type: 2}
+  - name: PlasticBlack
+    mat: {fileID: 2100000, guid: 94e21dd7d1dd9c8479adafcc54a54fbf, type: 2}
+  - name: PlasticBlue
+    mat: {fileID: 2100000, guid: b0fd67d215179a545a22e6372a2afb04, type: 2}
+  - name: PlasticRed
+    mat: {fileID: 2100000, guid: 9bf40839cbf04154da871c502c6f223f, type: 2}
+  - name: PlasticWhite
+    mat: {fileID: 2100000, guid: 93c29e39fb99ca0469691d629dc6d898, type: 2}
+  - name: Puddle
+    mat: {fileID: 2100000, guid: f7bfceb98de1b4f42a9a89eb0574ea36, type: 2}
+  - name: Rubber
+    mat: {fileID: 2100000, guid: 1ade2a586ae90024692739ba61b626a6, type: 2}
+  - name: ShoeLeather
+    mat: {fileID: 2100000, guid: 3090d4008a0b2674fbbb438f611b6f9b, type: 2}
+  - name: Skin
+    mat: {fileID: 2100000, guid: 77c4c71a1574fcc4cb5e2d7df091ea2c, type: 2}
+  - name: Slime
+    mat: {fileID: 2100000, guid: 67316c05f796928449834bfc5b763606, type: 2}
+  - name: SlimeCore
+    mat: {fileID: 2100000, guid: 7cdaa4447af35cd4f82d2964fd435bbe, type: 2}
+  - name: SmilerGlow
+    mat: {fileID: 2100000, guid: f2bbc71498cdc3a468688a4b60c17f43, type: 2}
+  - name: Steel
+    mat: {fileID: 2100000, guid: 984c3c108cbc26a4cb0eafc0b31d7a96, type: 2}
+  - name: ToonBlack
+    mat: {fileID: 2100000, guid: 5aeec80565189be4bb34583198e0222a, type: 2}
+  - name: ToonWhite
+    mat: {fileID: 2100000, guid: cc4a13afe8c69be468af8a703135effe, type: 2}
+  prefabs:
+  - name: Arch_Tiled
+    prefab: {fileID: 5775716085105319491, guid: 20005b17eedbc2f43a382630b3a16c6e, type: 3}
+  - name: Boiler
+    prefab: {fileID: 1822782577545122567, guid: ea8e41ca17022a842b919842ed6b3620, type: 3}
+  - name: Bookshelf_Hotel
+    prefab: {fileID: 1716943121116066393, guid: 550f6a2dc8e990d43bf2d8f21b39f21f, type: 3}
+  - name: CeilingVent
+    prefab: {fileID: 3656183461240468949, guid: fc151c25f00fdb440b1c8cf8959d3568, type: 3}
+  - name: Column_ArtDeco
+    prefab: {fileID: 8536943347098139862, guid: 40a5643ed5f88154fa71da272774e26d, type: 3}
+  - name: CrownMolding
+    prefab: {fileID: 4656337838399328480, guid: 3420ad299a1460f4e8c0dc3b82536d76, type: 3}
+  - name: CubicleWall
+    prefab: {fileID: 3737739879013043707, guid: 0a425b9fde6172140abda32964b51735, type: 3}
+  - name: Digit_0
+    prefab: {fileID: 338774817384994592, guid: f8e18b7420fa38547b1c3bacd683ceeb, type: 3}
+  - name: Digit_1
+    prefab: {fileID: 4674382095187358685, guid: e187e2adef0979644beb4aac271e5174, type: 3}
+  - name: Digit_2
+    prefab: {fileID: 8046031188128296990, guid: 0f9c142bcf1944f498571a5b2aea6fa3, type: 3}
+  - name: Digit_3
+    prefab: {fileID: 2449302495203887792, guid: 69c9feae6d30d434eb92d03d022b653c, type: 3}
+  - name: Digit_4
+    prefab: {fileID: 5119059420231525956, guid: bfed9d42727a71e46921b0d88987ccd8, type: 3}
+  - name: Digit_5
+    prefab: {fileID: 5990969150919270520, guid: 4edca5d7473e84242b043e9a1a231953, type: 3}
+  - name: Digit_6
+    prefab: {fileID: 7513388570341327895, guid: 260406e3fdf410f42b422e0d3d2b6324, type: 3}
+  - name: Digit_7
+    prefab: {fileID: 305196545649847300, guid: cabeded7905f7fa45b073317fc031f97, type: 3}
+  - name: Digit_8
+    prefab: {fileID: 5819365346983071757, guid: 0d67f547c6a93c240b8b004bb53a2886, type: 3}
+  - name: Digit_9
+    prefab: {fileID: 7485488481502570287, guid: efa35d5b5db784548874da2efac3a5df, type: 3}
+  - name: DrainGrate
+    prefab: {fileID: 1868695176296063366, guid: 7784deca82d905c438eacf04b2e1e5ae, type: 3}
+  - name: Elevator_ArtDeco
+    prefab: {fileID: 476346516843423986, guid: f5333f5de7e3ee9489e0f916cb4a870b, type: 3}
+  - name: Elevator_Gate
+    prefab: {fileID: 9070886125973357261, guid: 862f4f145cf3c054aa9822ecb89634e9, type: 3}
+  - name: Elevator_Modern
+    prefab: {fileID: 9103337808511789614, guid: 463676890d82b234c9ea133876376ed4, type: 3}
+  - name: ExitSign
+    prefab: {fileID: 73425219558540842, guid: 760e8a9487471814c812b493072b7cf5, type: 3}
+  - name: FloatingCastle
+    prefab: {fileID: 4115081200331015891, guid: 14ab303d02fe4f54799e44a147318e29, type: 3}
+  - name: Fountain
+    prefab: {fileID: 5478964867179841484, guid: 6d5afabd8087741428495667629a8121, type: 3}
+  - name: FPArms
+    prefab: {fileID: 1174705085852589418, guid: 4350effcb9540694690f5a5cbf1db7cb, type: 3}
+  - name: Gramophone
+    prefab: {fileID: 3293982040355282788, guid: 21a0694dc753bec4cadf3ed00c85bd84, type: 3}
+  - name: Hotel_DoorFrame
+    prefab: {fileID: 6646418622897768883, guid: 7f47f2ee217f72146a6f5a1a69fc156c, type: 3}
+  - name: Hotel_DoorLeaf
+    prefab: {fileID: 8727596290082700458, guid: 06da9ac9ab6425244854b7907d5f6a58, type: 3}
+  - name: House_Blue
+    prefab: {fileID: 6716194294832646871, guid: cb9af3dcdd8062540a0bdd3177cba1c1, type: 3}
+  - name: House_Brick
+    prefab: {fileID: 4063121047904178728, guid: 9849af3282ddf0d46a5d6aaa577be04d, type: 3}
+  - name: House_Door
+    prefab: {fileID: 9046995658725224207, guid: c1cedbfb31d27d74c9217b34d19b9c8c, type: 3}
+  - name: House_Green
+    prefab: {fileID: 2140567694616356348, guid: fbf9cd4c8e2c1bd499a3b3e9f6354d22, type: 3}
+  - name: House_White
+    prefab: {fileID: 5770445751583795298, guid: 232e10dc421d44540befca0456856f08, type: 3}
+  - name: House_Yellow
+    prefab: {fileID: 8635961950514519742, guid: f244fb517bee2d34f837558ba299ab86, type: 3}
+  - name: Item_AlmondWater
+    prefab: {fileID: 3043283022348924603, guid: 584a1cf0bdd525e4db5b4ef390ea0cd2, type: 3}
+  - name: Item_Battery
+    prefab: {fileID: 1087661449845698221, guid: 0f07e2d7472d7b745a0772c2ab69d2e8, type: 3}
+  - name: Item_HotelKey
+    prefab: {fileID: 8536569265108476047, guid: c0077592ffa107f4c82131451fb309e1, type: 3}
+  - name: Item_Keycard
+    prefab: {fileID: 7620719781575578755, guid: 265c0a4152cf95a40a55ca2adfe803d4, type: 3}
+  - name: Item_Note
+    prefab: {fileID: 6271571995674599845, guid: 624c2e45c09748b479bff62ba0e8fc96, type: 3}
+  - name: Lighthouse
+    prefab: {fileID: 3929526890427553290, guid: 4b6c0d0bac717fe4498b5edb05bc1901, type: 3}
+  - name: MahjongTable
+    prefab: {fileID: 4377564023810451552, guid: 6574664d86f986b47a87c9a8c81be040, type: 3}
+  - name: Mailbox
+    prefab: {fileID: 8820721509865715444, guid: 0a2615012eb74ea49bfc451a903609ec, type: 3}
+  - name: OfficeDesk
+    prefab: {fileID: 1170107174348852898, guid: 2bf874e3cde23a940b0b1d2cfc7dd713, type: 3}
+  - name: OfficeWindow
+    prefab: {fileID: 4409664106338773313, guid: 31580a237957b234cbc6622c716fed3b, type: 3}
+  - name: Office_DoorFrame
+    prefab: {fileID: 437395978816505443, guid: 948d6fcf79a2bf44fbde7c03873e2916, type: 3}
+  - name: Office_DoorLeaf
+    prefab: {fileID: 2258759347530131301, guid: ad77e5abb7922614c9fe8e9712d82846, type: 3}
+  - name: OutletSwitch
+    prefab: {fileID: 7040081107493136276, guid: ad5b0f718bb2b73418f1ebbfc43f14cb, type: 3}
+  - name: PicketFence
+    prefab: {fileID: 5101097069316388239, guid: 2acc21ebffd0bc9498f297d004c27434, type: 3}
+  - name: Pillar_Tiled
+    prefab: {fileID: 777547865096617296, guid: 026e174b88346324fa94554909114f62, type: 3}
+  - name: PipeCeiling
+    prefab: {fileID: 8470266543397200702, guid: c0ecb271af443aa45ba256c63028c858, type: 3}
+  - name: PipeRun
+    prefab: {fileID: 1517482345213779068, guid: d7b886285f4d7d3448d241ef086132b3, type: 3}
+  - name: PlayerBody
+    prefab: {fileID: 6428678821769315532, guid: 628e11d49b2193c4b8f12dabb370e235, type: 3}
+  - name: PoolLadder
+    prefab: {fileID: 5285128925703780398, guid: 1f0c72019665e5e4e8d733541491c120, type: 3}
+  - name: ReceptionDesk
+    prefab: {fileID: 3572182719688980821, guid: 09d542056e83fcf478849466b99bc9a5, type: 3}
+  - name: Rowboat
+    prefab: {fileID: 6715384041296649637, guid: 2722e40335426bd4a9364e10854a90f9, type: 3}
+  - name: Sconce_ArtDeco
+    prefab: {fileID: 5368631929589635409, guid: 24bc810f151c5ef42b8a725ee65295ea, type: 3}
+  - name: Sign_Level1
+    prefab: {fileID: 6626900436141082451, guid: 9a0da3c9abfff8b4d86ead8a032ccaae, type: 3}
+  - name: Sign_Level2
+    prefab: {fileID: 21113153117000062, guid: 34bdb4e26e23ac44a823af88d10bd11d, type: 3}
+  - name: Sign_Level37
+    prefab: {fileID: 7463774162227728272, guid: 5abc21a66e5e85f428ac25ea8ccb7b7a, type: 3}
+  - name: Sign_Level4
+    prefab: {fileID: 6655286955700717040, guid: f4d678a6075176247b0fbee59fd01b09, type: 3}
+  - name: Sign_Level5
+    prefab: {fileID: 3224796668560479055, guid: d8f735fffb8268d4ea08262290d017ca, type: 3}
+  - name: Sign_Level7
+    prefab: {fileID: 468988549443015023, guid: 19fbd931b49150348bf463c567d49377, type: 3}
+  - name: Sign_Level94
+    prefab: {fileID: 4098083884892555907, guid: 85bf2879227cdb940888889d4bd15649, type: 3}
+  - name: Sign_MainMenu
+    prefab: {fileID: 7895159117107912521, guid: 6e7b4387b7492a54f967b478e0e1224f, type: 3}
+  - name: SirenPole
+    prefab: {fileID: 4674361276022399598, guid: 172bad36ffbca704da64e62e403dad82, type: 3}
+  - name: Skylight
+    prefab: {fileID: 2871470975060177170, guid: fbfe11116fe005e428c8a9d4a9981d22, type: 3}
+  - name: Troffer
+    prefab: {fileID: 1599648328436533118, guid: 5556c5536929b0b4a897008d60e153ae, type: 3}
+  - name: VendingMachine
+    prefab: {fileID: 3161616653253125137, guid: c3c129b84c7f6e44fa79b08b97a66e5e, type: 3}
+  - name: VintageVan
+    prefab: {fileID: 1568008521858206689, guid: 9bbb0a6c502b3794b8677725e4747adf, type: 3}
+  - name: Wainscot
+    prefab: {fileID: 1534006765014877883, guid: 3dde388adb3176c47a499d95dbfb89d9, type: 3}
+  - name: WaterCooler
+    prefab: {fileID: 7070319016354295169, guid: 97312c72615c60f4194ecaa97e27537f, type: 3}
+  - name: WaterTower
+    prefab: {fileID: 5904252492471650736, guid: 3fabac9bb7f57fe49a4c49563d4fd5e7, type: 3}
+  - name: almond_water
+    prefab: {fileID: 1287969667321221393, guid: a6cb922788c8e85448abe80839e40a79, type: 3}
+  - name: battery
+    prefab: {fileID: 3403300162188784576, guid: da1f6156f3e202a428d8e59ecdad3c2f, type: 3}
+  - name: cassette
+    prefab: {fileID: 5714148645575522966, guid: 0a072d6258c4abe47a07ccb3c9f05439, type: 3}
+  - name: flashlight
+    prefab: {fileID: 1938222295217538474, guid: 2158ed52d3d213e449da88fca5255631, type: 3}
+  - name: hotel_key
+    prefab: {fileID: 7526262082592248986, guid: 8487c7dfc414a8243bd496cfff7176b9, type: 3}
+  - name: keycard_l4
+    prefab: {fileID: 2650198400005203740, guid: b0a9bc38ac2cd7749acc352edd8ca8f8, type: 3}
+  - name: lighter
+    prefab: {fileID: 1516990969991770688, guid: 45032bbe9ed58ab4cb226b0100ab5e6b, type: 3}
+  - name: medkit
+    prefab: {fileID: 2364964621715520605, guid: ec7cf650d8f1dbe4980715ad6a28f994, type: 3}
+  - name: note_37_1
+    prefab: {fileID: 7931158123392703450, guid: 689b76223495f114b8672765df6b0b87, type: 3}
+  - name: note_94_1
+    prefab: {fileID: 494481875278274472, guid: aef4e96317e224e49978f77ea106c5f5, type: 3}
+  - name: note_l4_1
+    prefab: {fileID: 6532343754576486469, guid: a61a18dc44e07b9459628db037566ccb, type: 3}
+  - name: note_l5_1
+    prefab: {fileID: 7032215935099849356, guid: 0fc35e867e3ba3c49b51993e67f39485, type: 3}
+  - name: pocket_watch
+    prefab: {fileID: 3540639254326618197, guid: 7499f4266868726428901ae7fd54ad93, type: 3}
+  - name: ration
+    prefab: {fileID: 692934240015378716, guid: 26c6e3b5aa15dfb4ca54df40680c2cea, type: 3}
+  - name: Deathmoth
+    prefab: {fileID: 1849063636169647858, guid: 8cfa19faac52cef4ca1ec50fea4fc801, type: 3}
+  - name: Hound
+    prefab: {fileID: 8003897000896879913, guid: 267a36593c4e3c74d831dabd32c8a93e, type: 3}
+  - name: Slime
+    prefab: {fileID: 2868459874442040966, guid: 8d89072da4234594389501c408ddd1c3, type: 3}
+  - name: SlimeBig
+    prefab: {fileID: 8668885627697865441, guid: 8187f5836e206904e9f56f7e956620f6, type: 3}
+  - name: Smiler
+    prefab: {fileID: 4812978918396309621, guid: 83b852f65d3f44d4191975ee9651455d, type: 3}
+  - name: Toon
+    prefab: {fileID: 6356452933325279630, guid: 6d0b8395d55a90847b1a80441b7fe982, type: 3}
+  - name: antique_ceramic_vase_01
+    prefab: {fileID: 433930678766420398, guid: bb5c7214105599548bea974dfb558cca, type: 3}
+  - name: ArmChair_01
+    prefab: {fileID: 1575886574719758528, guid: 5ed845365bce8644fba5e3c97e0e1255, type: 3}
+  - name: Barrel_01
+    prefab: {fileID: 6633755316911638629, guid: b70565f2cc099be4ebc91bd34d88a971, type: 3}
+  - name: binder_notebook
+    prefab: {fileID: 7381973937148344325, guid: 958b0e595a154074fbfe2875c38bcff6, type: 3}
+  - name: book_encyclopedia_set_01
+    prefab: {fileID: 7847619683575741245, guid: a6ab186c7e16dea41973162237ef1c95, type: 3}
+  - name: boulder_01
+    prefab: {fileID: 8709454677038035653, guid: 7bc9c1a09ffebe24192fe5f38d9f8bd2, type: 3}
+  - name: brass_candleholders
+    prefab: {fileID: 4793181286664366391, guid: 983ab0c5aa2e8664a8ecff9d0f0bb85a, type: 3}
+  - name: caged_hanging_light
+    prefab: {fileID: 6240845191890920194, guid: 9f9d2464cf7f3d4459b8bca91aef87b8, type: 3}
+  - name: cardboard_box_01
+    prefab: {fileID: 8375688585826733941, guid: ce58f1b4544bd2741af8740aaf0d8967, type: 3}
+  - name: Chandelier_01
+    prefab: {fileID: 787802190248864987, guid: de40121abf4dac94e8bd9dba573b49e6, type: 3}
+  - name: Chandelier_02
+    prefab: {fileID: 7611500442624583178, guid: 8d2747ee90baf4846918c304b4bc3504, type: 3}
+  - name: chess_set
+    prefab: {fileID: 7109294604036923003, guid: e5caf066982acdd40843d068672abf99, type: 3}
+  - name: ClassicConsole_01
+    prefab: {fileID: 2209341782875872784, guid: 343dcb51a1a1a8540be6afa7861faf83, type: 3}
+  - name: ClassicNightstand_01
+    prefab: {fileID: 6751472610578509691, guid: ef85a337f0f70884c932d697b140746e, type: 3}
+  - name: classic_laptop
+    prefab: {fileID: 2883258850139822505, guid: fbbba61b92f23534996033625ac71ca9, type: 3}
+  - name: clipboard
+    prefab: {fileID: 6753150068020306815, guid: 3c9377340919e514a87d9687c6cfa320, type: 3}
+  - name: CoffeeCart_01
+    prefab: {fileID: 8263915369184145956, guid: 46d3f8d854cccc54f9c1d8ef4f7cace3, type: 3}
+  - name: CoffeeTable_01
+    prefab: {fileID: 3093436028212438673, guid: 66ccb1b7dff44534d8b428f9cb8e3a96, type: 3}
+  - name: covered_car
+    prefab: {fileID: 6171942731843526181, guid: a39e8bcc7b2ad5d4f975a51dd64b68a7, type: 3}
+  - name: dandelion_01
+    prefab: {fileID: 2053369193272969569, guid: da29dfd04e138ac4e96ffd8ae96f3b95, type: 3}
+  - name: drawer_cabinet
+    prefab: {fileID: 8320679672862750237, guid: b94a42b08b1cec343b7cf8600ed60078, type: 3}
+  - name: fancy_picture_frame_01
+    prefab: {fileID: 3274866195853232710, guid: 13e0bdd4c17dd8945a3ba8a5fd735555, type: 3}
+  - name: fancy_picture_frame_02
+    prefab: {fileID: 9215317824511197385, guid: 337627a0b56e8c74281177a1c9de15a9, type: 3}
+  - name: fire_alarm
+    prefab: {fileID: 3252935050871727270, guid: e1d2e030ec7fead458d58b5239bb446c, type: 3}
+  - name: fire_hydrant
+    prefab: {fileID: 6698873858448470871, guid: 36b8ca1c3a1b1c540880c6b5f805dbd7, type: 3}
+  - name: garden_gnome
+    prefab: {fileID: 5862848365789613121, guid: 58ef7d21012af674294c81d034829200, type: 3}
+  - name: GothicCabinet_01
+    prefab: {fileID: 3267297175135814043, guid: 8d493d574bebbf549bb809e584e90ac3, type: 3}
+  - name: gothic_coffee_table
+    prefab: {fileID: 8407683855682191946, guid: b943224e7f7127448a08f0b52b53b13c, type: 3}
+  - name: grass_medium_01
+    prefab: {fileID: 4274051263734731421, guid: d3c1e8697e78b2b4aac561dbf8d3adbf, type: 3}
+  - name: grass_medium_02
+    prefab: {fileID: 6520017487390347988, guid: 580dd2293d26bb542acca4023e2fb0ac, type: 3}
+  - name: GreenChair_01
+    prefab: {fileID: 658610226602001410, guid: cfbfe73dab7e1044fa4f1436f2b5e11f, type: 3}
+  - name: industrial_caged_sconce
+    prefab: {fileID: 2950098655780992677, guid: 80f45e3c120d32145bf9d06f7935a847, type: 3}
+  - name: industrial_wall_sconce
+    prefab: {fileID: 7074451262318063090, guid: c28cc4b91f4f21d4aac2e43c0b15afbf, type: 3}
+  - name: island_tree_01
+    prefab: {fileID: 9049665714102005990, guid: 09339d391ba35df438bc8960ee951e28, type: 3}
+  - name: jacaranda_tree
+    prefab: {fileID: 2931086281564369599, guid: 2e0e481d21dceab4a9e771ca6f847d56, type: 3}
+  - name: korean_fire_extinguisher_01
+    prefab: {fileID: 7029982881109901166, guid: 155bb7f538a08924db775f3315ffba0b, type: 3}
+  - name: lifebuoy
+    prefab: {fileID: 1615370847269698461, guid: fc7e5c496faf54740bf1d30de4fb1e17, type: 3}
+  - name: long_life_food
+    prefab: {fileID: 6757889142447573459, guid: f72faf7af70dff74aa6291a234ca6495, type: 3}
+  - name: mantel_clock_01
+    prefab: {fileID: 3714766292530846130, guid: 3de9f6e3dfb872c4f9da11b83dc1642e, type: 3}
+  - name: marble_bust_01
+    prefab: {fileID: 2531168423972387477, guid: ddee8968456448641aa6b50b9d9ea446, type: 3}
+  - name: medical_box
+    prefab: {fileID: 5490984353945315354, guid: fa6b4ab6e62c0c74686bda8c0f1094f4, type: 3}
+  - name: metal_office_desk
+    prefab: {fileID: 7644139624349119936, guid: 05e153acf688d4545b1489406d8f773e, type: 3}
+  - name: metal_trash_can
+    prefab: {fileID: 1608122472835641698, guid: 8d470a5efc1c2244bb9f600a00a111e8, type: 3}
+  - name: modern_arm_chair_01
+    prefab: {fileID: 6095719468560523445, guid: 780078b018a94c9449a5d34979708819, type: 3}
+  - name: modular_electricity_poles
+    prefab: {fileID: 7813993826599268409, guid: d029addbdfcb56a4cb877dc6932ffb56, type: 3}
+  - name: modular_industrial_pipes_01
+    prefab: {fileID: 5395349299721312193, guid: 31119ad300a43f344a08abb45936e137, type: 3}
+  - name: mounted_fluorescent_lights
+    prefab: {fileID: 3656158804167911020, guid: 9065a307d9eb5d045aae58343b4f25d0, type: 3}
+  - name: office_notepads
+    prefab: {fileID: 4360228932972309264, guid: 3bda6b701af69db4e9229656111c7810, type: 3}
+  - name: old_military_compressor
+    prefab: {fileID: 478444776178324916, guid: f73eeda8acc1cdd4cba847b9cade7f47, type: 3}
+  - name: old_tyre
+    prefab: {fileID: 1390710562387775486, guid: aa89014dc19de6742bd6f1b2756a83ce, type: 3}
+  - name: ornate_mirror_01
+    prefab: {fileID: 2979013199935296167, guid: db7456a5e3b19794bb917ffa795686f4, type: 3}
+  - name: Ottoman_01
+    prefab: {fileID: 7382933919766943670, guid: 922c39ece76fac14da74d98159b5a036, type: 3}
+  - name: painted_wooden_bench
+    prefab: {fileID: 5136058192241542489, guid: 0e49f2355617fbf4694c1cf6ce7c18d4, type: 3}
+  - name: planter_box_01
+    prefab: {fileID: 7417559208716434082, guid: 52fb67103cdcb98459c92d550f2c4171, type: 3}
+  - name: plastic_monobloc_chair_01
+    prefab: {fileID: 1184474906949392490, guid: 82e651f9c8b780744ba41d57d89d4bbb, type: 3}
+  - name: pocket_watch
+    prefab: {fileID: 3632415822238408697, guid: 72ba0ed58d7c3ae4e9470777c46131de, type: 3}
+  - name: portable_cassette_player
+    prefab: {fileID: 7633672086934718134, guid: 3876e2bb9b0cbb84eab097b6bfaf3353, type: 3}
+  - name: potted_plant_02
+    prefab: {fileID: 2132962795102922622, guid: ce7200350e0381c45889e7ddae6ff608, type: 3}
+  - name: projector_screen
+    prefab: {fileID: 901723403122335410, guid: 4a099b9577e04c443814f443a8be0a07, type: 3}
+  - name: rubber_duck_toy
+    prefab: {fileID: 3473227921676552951, guid: 5960e43f3e8c2bf4d9ada09ce320cd4c, type: 3}
+  - name: SchoolChair_01
+    prefab: {fileID: 5695043499272251524, guid: e1acb84858e3cbe4bb3f3ea22246dc81, type: 3}
+  - name: shrub_01
+    prefab: {fileID: 1890261934189045168, guid: 87f9e5a11bc6b274c9c0ae1b51b25104, type: 3}
+  - name: shrub_02
+    prefab: {fileID: 987683902930483025, guid: 8d1fe24923f198a42b7fd33b7ff33c99, type: 3}
+  - name: Sofa_01
+    prefab: {fileID: 4209624626606334847, guid: bb859dd14d891aa4d8d18973e505017b, type: 3}
+  - name: sofa_02
+    prefab: {fileID: 1075732468432759910, guid: 1952e8a47c5a7e247851a2a663f27d1c, type: 3}
+  - name: stationery_supplies
+    prefab: {fileID: 2409451727742591484, guid: 0326563fa023a6b49b8e742f3129c468, type: 3}
+  - name: steel_frame_shelves_03
+    prefab: {fileID: 4214592768460928497, guid: bc0b45a6042c49e4fa18e34554d1d042, type: 3}
+  - name: street_lamp_01
+    prefab: {fileID: 5391207850260111017, guid: 1cc542a05730b434096aae3ac931c08b, type: 3}
+  - name: tea_set_01
+    prefab: {fileID: 2014516773274642719, guid: 55f4329ce61404044bdf0f762fd7b183, type: 3}
+  - name: trashbag
+    prefab: {fileID: 6752880000372532314, guid: 0a6e0894f6f5c9f4191fab7ff8eaf684, type: 3}
+  - name: tree_small_02
+    prefab: {fileID: 7535920076686947650, guid: d9c822281228e0e4398dd68f5b92f815, type: 3}
+  - name: vintage_cabinet_01
+    prefab: {fileID: 2823420760292828193, guid: e481507eb8a6086438b725c2e5b989bc, type: 3}
+  - name: vintage_flashlight
+    prefab: {fileID: 1896975725169060415, guid: a2689d27b9957c54ea59b551f5e9e9c2, type: 3}
+  - name: vintage_grandfather_clock_01
+    prefab: {fileID: 1160796660893750386, guid: 741e478b2a1beec43892a662a0f2c71d, type: 3}
+  - name: vintage_lighter
+    prefab: {fileID: 5364505186182094839, guid: 21cda9d859e61054e8d9b21b5771ccb8, type: 3}
+  - name: vintage_oil_lamp
+    prefab: {fileID: 3094729615580708859, guid: 08133e0ad041d21489937ecc1b5d9f28, type: 3}
+  - name: vintage_stapler
+    prefab: {fileID: 5132929946054586997, guid: aec57ebf8bc759649b04ff5f2990b58b, type: 3}
+  - name: vintage_suitcase
+    prefab: {fileID: 8129836712378371316, guid: 9f2e7c6d8df0e5d4e8380fab87cb9427, type: 3}
+  - name: wall_clock
+    prefab: {fileID: 4270730055088356348, guid: 385f3435ee29da74eabc5a78597fcf01, type: 3}
+  - name: WetFloorSign_01
+    prefab: {fileID: 5402660183251552015, guid: 1c69fae19872740488d8027fc44ca91c, type: 3}
+  - name: wine_bottles_01
+    prefab: {fileID: 5764370680070323849, guid: ceef92e89114fa544ad0d54ade95526a, type: 3}
+  - name: wooden_display_shelves_01
+    prefab: {fileID: 4458212160586604647, guid: fc2a8d348d92aef44b0acfbe5e6b945d, type: 3}
+  - name: wooden_picnic_table
+    prefab: {fileID: 5137792887693338558, guid: 33c7127ab10fcbd4490c6e3e7c482326, type: 3}
